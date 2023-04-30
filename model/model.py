@@ -87,7 +87,9 @@ class FrozenInTime(BaseModel):
         if load_checkpoint not in ["", None]:
             # checkpoint = torch.load(load_checkpoint)
             local_rank = int(os.environ['LOCAL_RANK'])  # fixed by qinghong.
+            #local_rank = 0
             checkpoint = torch.load(load_checkpoint, map_location='cuda:{}'.format(local_rank))
+            #checkpoint = torch.load(load_checkpoint, map_location=torch.device('cpu'))
             state_dict = checkpoint['state_dict']
             new_state_dict = state_dict_data_parallel_fix(state_dict, self.state_dict())
             new_state_dict = self._inflate_positional_embeds(new_state_dict)

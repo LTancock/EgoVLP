@@ -1,0 +1,15 @@
+/user/home/fi19121/.conda/envs/egovlp_new/lib/python3.8/site-packages/torchvision/transforms/_functional_video.py:6: UserWarning: The 'torchvision.transforms._functional_video' module is deprecated since 0.12 and will be removed in 0.14. Please use the 'torchvision.transforms.functional' module instead.
+  warnings.warn(
+/user/home/fi19121/.conda/envs/egovlp_new/lib/python3.8/site-packages/torchvision/transforms/_transforms_video.py:25: UserWarning: The 'torchvision.transforms._transforms_video' module is deprecated since 0.12 and will be removed in 0.14. Please use the 'torchvision.transforms' module instead.
+  warnings.warn(
+WARNING - test - No observers have been added to this run
+INFO - test - Running command 'run'
+INFO - test - Started
+TextVideoDataLoader
+Video Transform is used!
+FrozenInTime
+######USING ATTENTION STYLE:  frozen-in-time
+2036
+INFO - test - Completed after 0:36:08
+nDCG: VT:0.274 TV:0.280 AVG:0.277
+mAP: VT:0.248 TV:0.237 AVG:0.243

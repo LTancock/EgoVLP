@@ -1,0 +1,19 @@
+#!/bin/bash -login
+#SBATCH --nodes=1
+#SBATCH --gres=gpu:2
+#SBATCH --partition gpu_veryshort
+#SBATCH --job-name=Ego_Epic
+#SBATCH --time 01:00:00
+#SBATCH --account=COSC027924
+#SBATCH --output Ego_Epic.out
+
+module load CUDA
+module load tools/git/2.35.1
+
+export LOCAL_RANK=0
+source ~/.bashrc
+conda activate egovlp_new
+
+cd $SLURM_SUBMIT_DIR
+#python3 ~/scratch/EgoVLP-main/run/test_epic.py
+python3 ~/scratch/EgoVLP-main/run/test_epic.py

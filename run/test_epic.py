@@ -8,6 +8,9 @@ import pandas as pd
 import transformers
 from sacred import Experiment
 
+#Had to add this for utils to work
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
 import torch
 import torch.nn.functional as F
 from utils import nDCG, mAP
@@ -103,16 +106,23 @@ def run():
     vid_embed_arr = []
     print(len(data_loader))
     with torch.no_grad():
-        # for i, data in enumerate(data_loader):
-        for i, data in tqdm.tqdm(enumerate(data_loader)):
+        for i, data in enumerate(data_loader):
+            #print(data['text'])
+        #for i, data in tqdm.tqdm(enumerate(data_loader)):
             # leave this for now since not doing anything on the gpu
             if tokenizer is not None:
                 data['text'] = tokenizer(data['text'], return_tensors='pt', padding=True, truncation=True)
+            #print(data['text'].items())
             data['text'] = {key: val.cuda() for key, val in data['text'].items()}
             if isinstance(data['video'], list):
                 data['video'] = [x.to(device) for x in data['video']]
             else:
                 data['video'] = data['video'].to(device)
+
+            #print(len(data['text']), flush=True)
+            #print(len(data['video']), flush=True)
+            #print(data['text'], flush=True)
+            #print(data['video'].shape, flush=True)
 
             text_embed, vid_embed = model(data, return_embeds=True)
             vid_embed_arr.append(vid_embed.cpu().detach())
@@ -120,6 +130,10 @@ def run():
 
     vid_embeds = torch.cat(vid_embed_arr)
     text_embeds = torch.cat(text_embed_arr)
+
+    #save embeds to separate file for UMAP stuff
+    np.save('video', vid_embeds)
+    np.save('text', text_embeds)
 
     # considered unique narrations for evaluation of EPIC
     path_dataframes = 'dataset/epic-kitchens/epic-kitchens-100-annotations-master/retrieval_annotations'
@@ -157,6 +171,7 @@ def run():
     print('mAP: VT:{:.3f} TV:{:.3f} AVG:{:.3f}'.format(vis_mAP, txt_mAP, (vis_mAP + txt_mAP) / 2))
 
 if __name__ == '__main__':
+    #print("hi") #This fixed it hanging once lol
     args = argparse.ArgumentParser(description='PyTorch Template')
 
     args.add_argument('-r', '--resume',

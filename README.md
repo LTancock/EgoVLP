@@ -1,3 +1,9 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/egocentric-video-language-pretraining/multi-instance-retrieval-on-epic-kitchens-100)](https://paperswithcode.com/sota/multi-instance-retrieval-on-epic-kitchens-100?p=egocentric-video-language-pretraining)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/egocentric-video-language-pretraining/action-recognition-on-charades-ego)](https://paperswithcode.com/sota/action-recognition-on-charades-ego?p=egocentric-video-language-pretraining)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/egocentric-video-language-pretraining/natural-language-queries-on-ego4d)](https://paperswithcode.com/sota/natural-language-queries-on-ego4d?p=egocentric-video-language-pretraining)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/egocentric-video-language-pretraining/moment-queries-on-ego4d)](https://paperswithcode.com/sota/moment-queries-on-ego4d?p=egocentric-video-language-pretraining)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/egocentric-video-language-pretraining/object-state-change-classification-on-ego4d)](https://paperswithcode.com/sota/object-state-change-classification-on-ego4d?p=egocentric-video-language-pretraining)
+
 # EgoVLP: Egocentric Video-Language Pretraining
 
 [Project page](https://qinghonglin.github.io/EgoVLP/) | [arXiv](https://arxiv.org/pdf/2206.01670.pdf)
@@ -135,7 +141,7 @@ This code is built on PyTorch with DistributedDataParallel (DDP). We pretrain Eg
 | EgoVLP | Zero-shot   | 16       | EgoClip w/ EgoNCE | [EgoVLP_PT_EPO1](https://drive.google.com/file/d/10lRA4Fldt-c5Azh5D2Zvjwi-_YR5ve5e/view?usp=sharing)                  | 25.0 |
 | EgoVLP | Fine-tuning w/ InfoNCE| 16       | EgoClip w/ EgoNCE | [EgoVLP_FT_CHARADES](https://drive.google.com/file/d/1-xWVDH7XO4pi6Hj5QRpKVz6y-QkqcFlQ/view?usp=sharing)                  | **32.1** |
 
-- Train: `python3 -m torch.distributed.launch --nnodes=$HOST_NUM  --node_rank=$INDEX  --nproc_per_node $HOST_GPU_NUM --master_port 8081 run/train_charades.py --config configs/ft/charades.json`
+- Train: `python3 -m torch.distributed.launch --nnodes=$HOST_NUM  --node_rank=$INDEX  --nproc_per_node $HOST_GPU_NUM --master_port 8081 run/train_epic.py --config configs/ft/charades.json`
 
 - Test: `python3 run/test_charades.py`
 
