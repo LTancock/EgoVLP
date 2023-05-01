@@ -1,0 +1,952 @@
+narration_id,narration
+P01_11_0,in the kitchen take plate 
+P01_11_1,in the kitchen put down plate 
+P01_11_10,in the kitchen take paper 
+P01_11_100,in the kitchen wash cloth 
+P01_11_101,in the kitchen take cloth 
+P01_11_102,in the kitchen squeeze cloth 
+P01_11_103,in the kitchen wipe counter 
+P01_11_104,in the kitchen wipe sink 
+P01_11_105,in the kitchen continue wiping sink 
+P01_11_107,in the kitchen take onion 
+P01_11_108,in the kitchen turn on tap 
+P01_11_109,in the kitchen wash sink 
+P01_11_11,in the kitchen open bin 
+P01_11_110,in the kitchen turn off tap 
+P01_11_112,in the kitchen wipe cooker 
+P01_11_113,in the kitchen put down cloth 
+P01_11_115,in the kitchen throw onion in 
+P01_11_116,in the kitchen close bin 
+P01_11_118,in the kitchen dry hands 
+P01_11_119,in the kitchen hand cloth 
+P01_11_12,in the kitchen throw paper into bin 
+P01_11_120,in the kitchen take hand 
+P01_11_121,in the kitchen throw can into bin 
+P01_11_122,in the kitchen take bin 
+P01_11_123,in the kitchen put bin onto other bin 
+P01_11_124,in the kitchen take bins 
+P01_11_125,in the kitchen put down bins 
+P01_11_127,in the kitchen close bag 
+P01_11_128,in the kitchen tie bag 
+P01_11_132,in the kitchen remove bag of the bin 
+P01_11_133,in the kitchen take bin out 
+P01_11_135,in the kitchen put bag into bin 
+P01_11_136,in the kitchen take garbage bag 
+P01_11_137,in the kitchen open bag 
+P01_11_14,in the kitchen take tray 
+P01_11_140,in the kitchen take lid 
+P01_11_141,in the kitchen close container 
+P01_11_142,in the kitchen take container and plate 
+P01_11_143,in the kitchen open fridge 
+P01_11_144,in the kitchen move things in the fridge 
+P01_11_145,in the kitchen put container into fridge 
+P01_11_146,in the kitchen put plate into fridge 
+P01_11_147,in the kitchen close fridge 
+P01_11_15,in the kitchen take spatula 
+P01_11_16,in the kitchen put down tray 
+P01_11_17,in the kitchen take trays 
+P01_11_18,in the kitchen put down trays 
+P01_11_19,in the kitchen put down spatula and pizza cutter 
+P01_11_2,in the kitchen take pizza 
+P01_11_23,in the kitchen take tablecloth 
+P01_11_24,in the kitchen fold tablecloth 
+P01_11_25,in the kitchen put tablecloth into cupboard 
+P01_11_26,in the kitchen take container 
+P01_11_27,in the kitchen open container 
+P01_11_28,in the kitchen take pizza slice 
+P01_11_29,in the kitchen put pizza slice into container 
+P01_11_3,in the kitchen put pizza onto plate 
+P01_11_31,in the kitchen take knife 
+P01_11_32,in the kitchen put down knife 
+P01_11_33,in the kitchen cut pizza 
+P01_11_37,in the kitchen put down lid 
+P01_11_40,in the kitchen wash hand 
+P01_11_42,in the kitchen take sponge 
+P01_11_43,in the kitchen squeeze sponge 
+P01_11_44,in the kitchen take washing up liquid 
+P01_11_45,in the kitchen put down washing up liquid 
+P01_11_46,in the kitchen wash knife 
+P01_11_47,in the kitchen take fork 
+P01_11_48,in the kitchen wash fork 
+P01_11_49,in the kitchen put down fork 
+P01_11_5,in the kitchen put pizza slice onto plate 
+P01_11_50,in the kitchen take pizza cutter 
+P01_11_52,in the kitchen rinse pizza cutter 
+P01_11_53,in the kitchen wash pizza cutter 
+P01_11_54,in the kitchen put down pizza cutter 
+P01_11_56,in the kitchen wash plate 
+P01_11_59,in the kitchen wash spatula 
+P01_11_60,in the kitchen put down spatula 
+P01_11_62,in the kitchen wash tray 
+P01_11_67,in the kitchen put down sponge 
+P01_11_68,in the kitchen take glass 
+P01_11_69,in the kitchen wash glass 
+P01_11_71,in the kitchen rinse glass 
+P01_11_72,in the kitchen put glass into rack 
+P01_11_74,in the kitchen rinse spatula 
+P01_11_75,in the kitchen put spatula into rack. 
+P01_11_77,in the kitchen rinse knife. 
+P01_11_78,in the kitchen wash knife. 
+P01_11_81,in the kitchen put knife into rack. 
+P01_11_82,in the kitchen take fork. 
+P01_11_83,in the kitchen wash fork. 
+P01_11_84,in the kitchen rinse fork. 
+P01_11_85,in the kitchen take pizza cutter. 
+P01_11_86,in the kitchen rinse pizza cutter. 
+P01_11_87,in the kitchen put pizza cutter into rack. 
+P01_11_88,in the kitchen take tray. 
+P01_11_89,in the kitchen rinse tray. 
+P01_11_9,in the kitchen fold paper 
+P01_11_90,in the kitchen put tray into rack. 
+P01_11_93,in the kitchen put tray into rack 
+P01_11_95,in the kitchen rinse plate 
+P01_11_98,in the kitchen put plate into track 
+P01_11_99,in the kitchen wash sponge 
+P01_12_0,in the kitchen take cutlery 
+P01_12_1,in the kitchen open drawer 
+P01_12_10,in the kitchen close drawer 
+P01_12_11,in the kitchen take cutting board 
+P01_12_12,in the kitchen open cupboard 
+P01_12_13,in the kitchen put cutting board into cupboard 
+P01_12_15,in the kitchen put trays into cupboard 
+P01_12_16,in the kitchen take pan 
+P01_12_17,in the kitchen put pan into cupboard 
+P01_12_18,in the kitchen take bowls 
+P01_12_20,in the kitchen put bowls into cupboard 
+P01_12_22,in the kitchen take out 
+P01_12_23,in the kitchen close cupboard 
+P01_12_25,in the kitchen pull down cup 
+P01_12_26,in the kitchen take plates 
+P01_12_28,in the kitchen put plates into cupboard 
+P01_12_29,in the kitchen take measuring cups and glass 
+P01_12_31,in the kitchen put cup into cupboard 
+P01_12_32,in the kitchen put measuring cup into cupboard 
+P01_12_34,in the kitchen take rolling bin 
+P01_12_37,in the kitchen put rolling pin into drawer 
+P01_12_4,in the kitchen put down spoon 
+P01_12_40,in the kitchen unfold tablecloth 
+P01_12_41,in the kitchen pull down tablecloth 
+P01_12_42,in the kitchen put cup onto tablecloth 
+P01_12_43,in the kitchen take spoon 
+P01_12_46,in the kitchen take soy milk 
+P01_12_49,in the kitchen put down container 
+P01_12_50,in the kitchen shake soy milk 
+P01_12_51,in the kitchen open milk 
+P01_12_52,in the kitchen pour milk 
+P01_12_53,in the kitchen close milk 
+P01_12_54,in the kitchen put down soya milk 
+P01_12_56,in the kitchen take cereals 
+P01_12_57,in the kitchen put down cereals 
+P01_12_58,in the kitchen open cereal box 
+P01_12_59,in the kitchen unfold cereal bag 
+P01_12_60,in the kitchen pour cereals 
+P01_12_7,in the kitchen put down tong 
+P01_13_0,in the kitchen take cereal bag 
+P01_13_1,in the kitchen fold cereal bag 
+P01_13_10,in the kitchen hang table cloth 
+P01_13_12,in the kitchen pour washing op liquid 
+P01_13_15,in the kitchen wash cup and spoon 
+P01_13_16,in the kitchen rinse spoon 
+P01_13_18,in the kitchen rinse cup 
+P01_13_2,in the kitchen put cereal bag into cereal box 
+P01_13_20,in the kitchen put down cup 
+P01_13_25,in the kitchen put down glass 
+P01_13_26,in the kitchen take bottle 
+P01_13_27,in the kitchen pour water into glass 
+P01_13_28,in the kitchen drink water 
+P01_13_3,in the kitchen close cereal box 
+P01_13_5,in the kitchen put cereal box into cupboard 
+P01_13_7,in the kitchen take cup and spoon 
+P01_13_8,in the kitchen put down cup and spoon 
+P01_13_9,in the kitchen take table cloth 
+P01_14_1,in the kitchen put down bin 
+P01_14_100,in the kitchen take kettle 
+P01_14_101,in the kitchen open kettle 
+P01_14_103,in the kitchen pour water into kettle 
+P01_14_105,in the kitchen close kettle 
+P01_14_106,in the kitchen put down kettle 
+P01_14_107,in the kitchen turn on kettle 
+P01_14_109,in the kitchen take colander 
+P01_14_11,in the kitchen move bin 
+P01_14_110,in the kitchen put down colander 
+P01_14_111,in the kitchen put lid into cupboard 
+P01_14_113,in the kitchen put down pan 
+P01_14_114,in the kitchen pour aubergine into pan 
+P01_14_115,in the kitchen put down cutting board 
+P01_14_12,in the kitchen lift bin 
+P01_14_120,in the kitchen stir aubergine 
+P01_14_121,in the kitchen put down aubergine 
+P01_14_122,in the kitchen take salt 
+P01_14_123,in the kitchen pour salt 
+P01_14_124,in the kitchen open salt 
+P01_14_125,in the kitchen close salt 
+P01_14_126,in the kitchen put down salt 
+P01_14_132,in the kitchen put down onion 
+P01_14_133,in the kitchen cut onion 
+P01_14_135,in the kitchen put onion into container 
+P01_14_14,in the kitchen move bins 
+P01_14_141,in the kitchen slice onion 
+P01_14_142,in the kitchen continue slicing onion 
+P01_14_143,in the kitchen chop onion 
+P01_14_144,in the kitchen continue chopping onion 
+P01_14_146,in the kitchen take onion bits 
+P01_14_148,in the kitchen stir 
+P01_14_155,in the kitchen open bottle 
+P01_14_157,in the kitchen take corkscrew 
+P01_14_159,in the kitchen take cork 
+P01_14_161,in the kitchen put down bottle opener 
+P01_14_164,in the kitchen put down bottle 
+P01_14_169,in the kitchen adjust hob 
+P01_14_17,in the kitchen crush soy milk 
+P01_14_173,in the kitchen pour water into saucepan 
+P01_14_178,in the kitchen pour onion into pan 
+P01_14_18,in the kitchen put soy milk into bin 
+P01_14_181,in the kitchen stir food 
+P01_14_182,in the kitchen continue stirring food 
+P01_14_19,in the kitchen take can and paper 
+P01_14_190,in the kitchen stir salt 
+P01_14_198,in the kitchen move bottle 
+P01_14_199,in the kitchen move glass 
+P01_14_2,in the kitchen take bag 
+P01_14_20,in the kitchen crush can 
+P01_14_200,in the kitchen put down table cloth 
+P01_14_201,in the kitchen move plates 
+P01_14_202,in the kitchen move container 
+P01_14_208,in the kitchen put down plates 
+P01_14_21,in the kitchen put can into bin 
+P01_14_213,in the kitchen put down cutlery 
+P01_14_214,in the kitchen move chair 
+P01_14_22,in the kitchen tear paper 
+P01_14_221,in the kitchen take tomato sauce 
+P01_14_222,in the kitchen open sauce 
+P01_14_223,in the kitchen pour sauce 
+P01_14_224,in the kitchen continue pouring sauce 
+P01_14_225,in the kitchen put down sauce 
+P01_14_229,in the kitchen take pasta 
+P01_14_23,in the kitchen put paper into bin 
+P01_14_231,in the kitchen take scissor 
+P01_14_232,in the kitchen cut pasta bag 
+P01_14_233,in the kitchen put scissor into drawer 
+P01_14_235,in the kitchen take pasta out of the bag 
+P01_14_236,in the kitchen pour pasta 
+P01_14_238,in the kitchen throw plastic bag into bin 
+P01_14_241,in the kitchen stir pasta 
+P01_14_249,in the kitchen move things 
+P01_14_253,in the kitchen rinse bottle 
+P01_14_254,in the kitchen rinse sauce 
+P01_14_257,in the kitchen put lid and bottle into bins 
+P01_14_259,in the kitchen take containers 
+P01_14_270,in the kitchen take glasses 
+P01_14_271,in the kitchen put down glasses 
+P01_14_272,in the kitchen take wine bottle 
+P01_14_273,in the kitchen pour wine into glass 
+P01_14_276,in the kitchen move glasses 
+P01_14_283,in the kitchen taste pasta 
+P01_14_287,in the kitchen check time 
+P01_14_29,in the kitchen put spoon into drawer 
+P01_14_290,in the kitchen turn off hob 
+P01_14_291,in the kitchen lift saucepan 
+P01_14_292,in the kitchen put down saucepan 
+P01_14_293,in the kitchen put colander into sink 
+P01_14_295,in the kitchen take saucepan 
+P01_14_296,in the kitchen drain pasta 
+P01_14_297,in the kitchen continue draining pasta 
+P01_14_299,in the kitchen pour pasta into pan 
+P01_14_3,in the kitchen unroll bag 
+P01_14_301,in the kitchen take mozzarella 
+P01_14_302,in the kitchen open mozzarella bag 
+P01_14_303,in the kitchen sprinkle mozzarella 
+P01_14_307,in the kitchen continue stirring pasta 
+P01_14_321,in the kitchen pour pasta onto plate 
+P01_14_324,in the kitchen move plate 
+P01_14_327,in the kitchen pour pasta onto place 
+P01_14_329,in the kitchen put down spatulas 
+P01_14_330,in the kitchen take pan and spatulas 
+P01_14_331,in the kitchen put down pan and spatulas 
+P01_14_334,in the kitchen throw pasta into bin 
+P01_14_337,in the kitchen wash hands 
+P01_14_339,in the kitchen close tap 
+P01_14_34,in the kitchen take mushrooms 
+P01_14_341,in the kitchen hang cloth 
+P01_14_342,in the kitchen close mozzarella bag 
+P01_14_343,in the kitchen fold mozzarella bag 
+P01_14_345,in the kitchen take clip 
+P01_14_346,in the kitchen put clip on bag 
+P01_14_349,in the kitchen put mozzarella into fridge 
+P01_14_35,in the kitchen put down mushrooms 
+P01_14_37,in the kitchen looking for something 
+P01_14_41,in the kitchen put down mushrooms and container 
+P01_14_42,in the kitchen take bowl 
+P01_14_43,in the kitchen put down bowl 
+P01_14_47,in the kitchen put down pasta 
+P01_14_48,in the kitchen pull down container 
+P01_14_49,in the kitchen take mushroom 
+P01_14_5,in the kitchen continue opening bag 
+P01_14_50,in the kitchen put down mushroom 
+P01_14_53,in the kitchen take aubergine and celery 
+P01_14_54,in the kitchen put down celery 
+P01_14_56,in the kitchen move mushrooms 
+P01_14_61,in the kitchen put down mozzarella 
+P01_14_68,in the kitchen put down tomato sauce mozzarella and container 
+P01_14_7,in the kitchen take banana skin 
+P01_14_77,in the kitchen take aubergine 
+P01_14_8,in the kitchen put banana skin into bag 
+P01_14_80,in the kitchen move cutting board 
+P01_14_81,in the kitchen take olive oil 
+P01_14_82,in the kitchen open oil 
+P01_14_83,in the kitchen pour oil into pan 
+P01_14_84,in the kitchen close oil 
+P01_14_85,in the kitchen put down oil 
+P01_14_86,in the kitchen turn on hob 
+P01_14_9,in the kitchen put bag in to bin 
+P01_14_90,in the kitchen cut aubergine 
+P01_14_91,in the kitchen continue cutting aubergine 
+P01_14_92,in the kitchen dicing aubergine 
+P01_14_93,in the kitchen continue dicing aubergine 
+P01_14_95,in the kitchen still dicing aubergine 
+P01_14_98,in the kitchen throw aubergine end into bin 
+P01_14_99,in the kitchen check oil 
+P01_15_10,in the kitchen put plate onto plates 
+P01_15_100,in the kitchen put plate down 
+P01_15_108,in the kitchen move pan 
+P01_15_109,in the kitchen remove pasta 
+P01_15_114,in the kitchen adjust tap 
+P01_15_118,in the kitchen rinse knife 
+P01_15_127,in the kitchen rinse fork 
+P01_15_152,in the kitchen take spatula. 
+P01_15_153,in the kitchen rinse spatula. 
+P01_15_154,in the kitchen put down spatula. 
+P01_15_155,in the kitchen close tap. 
+P01_15_156,in the kitchen wash cutting board. 
+P01_15_157,in the kitchen take washing up liquid. 
+P01_15_158,in the kitchen pour washing up liquid. 
+P01_15_159,in the kitchen put down washing up liquid. 
+P01_15_160,in the kitchen wash pan. 
+P01_15_161,in the kitchen empty pan. 
+P01_15_162,in the kitchen continue washing pan. 
+P01_15_163,in the kitchen put down pan. 
+P01_15_164,in the kitchen take colander. 
+P01_15_165,in the kitchen remove pasta. 
+P01_15_167,in the kitchen wash colander 
+P01_15_172,in the kitchen empty pan 
+P01_15_174,in the kitchen wash pan 
+P01_15_175,in the kitchen continue washing pan 
+P01_15_179,in the kitchen wash container 
+P01_15_18,in the kitchen fold table cloth 
+P01_15_182,in the kitchen wash lid 
+P01_15_186,in the kitchen put down container and sponge 
+P01_15_187,in the kitchen rinse hands 
+P01_15_188,in the kitchen rinse container 
+P01_15_194,in the kitchen rinse lid 
+P01_15_20,in the kitchen put table cloth into drawer 
+P01_15_200,in the kitchen rinse colander 
+P01_15_201,in the kitchen still rinsing colander 
+P01_15_210,in the kitchen rinse pan 
+P01_15_214,in the kitchen rinse sponge 
+P01_15_216,in the kitchen empty saucepan 
+P01_15_220,in the kitchen rinse cutting board 
+P01_15_221,in the kitchen continue rinsing cutting board 
+P01_15_223,in the kitchen drain cutting board 
+P01_15_228,in the kitchen squeeze pasta 
+P01_15_235,in the kitchen take cleansing 
+P01_15_245,in the kitchen throw something into bin 
+P01_15_251,in the kitchen continue wiping cooker 
+P01_15_266,in the kitchen continue wiping counter 
+P01_15_269,in the kitchen put down sponges 
+P01_15_270,in the kitchen squeeze clothe 
+P01_15_277,in the kitchen put down soap 
+P01_15_278,in the kitchen move washing up liquid 
+P01_15_289,in the kitchen pour wine 
+P01_15_30,in the kitchen pour washing up liquid 
+P01_15_34,in the kitchen continue washing spatula 
+P01_15_46,in the kitchen wash spoon 
+P01_15_5,in the kitchen throw leftovers into bin 
+P01_15_7,in the kitchen put plate onto plate 
+P01_15_72,in the kitchen continue washing plate 
+P01_15_79,in the kitchen continue washing pate 
+P01_15_87,in the kitchen put on sponge 
+P01_15_99,in the kitchen drain plate 
+P02_12_0,in the kitchen hold pan 
+P02_12_10,in the kitchen get spoon 
+P02_12_100,in the kitchen remove towels 
+P02_12_103,in the kitchen put towels 
+P02_12_105,in the kitchen knead dough 
+P02_12_106,in the kitchen knead dough in bowl 
+P02_12_107,in the kitchen hold bowl 
+P02_12_111,in the kitchen move bowl 
+P02_12_112,in the kitchen pick up tray 
+P02_12_113,in the kitchen put tray 
+P02_12_114,in the kitchen move paper towel 
+P02_12_116,in the kitchen move tray 
+P02_12_117,in the kitchen pick up olive oil 
+P02_12_118,in the kitchen open olive oil bottle 
+P02_12_12,in the kitchen pick up yoghurt 
+P02_12_120,in the kitchen pour oil onto tray 
+P02_12_121,in the kitchen put olive oil bottle 
+P02_12_122,in the kitchen spread olive in tray 
+P02_12_124,in the kitchen pick up dough 
+P02_12_125,in the kitchen get a bowl of dough 
+P02_12_127,in the kitchen pour olive oil in plate 
+P02_12_128,in the kitchen put olive oil 
+P02_12_129,in the kitchen pick up some oil 
+P02_12_13,in the kitchen put yoghurt 
+P02_12_130,in the kitchen knead dough in hand 
+P02_12_131,in the kitchen roll dough 
+P02_12_132,in the kitchen put bowl of dough 
+P02_12_133,in the kitchen get bowl of dough 
+P02_12_134,in the kitchen pick up oil 
+P02_12_139,in the kitchen spread oil on hand 
+P02_12_14,in the kitchen put spoon 
+P02_12_141,in the kitchen knead bowl of dough 
+P02_12_142,in the kitchen roll bowl of dough 
+P02_12_144,in the kitchen get some oil 
+P02_12_146,in the kitchen get ball of dough 
+P02_12_147,in the kitchen knead ball of dough 
+P02_12_148,in the kitchen roll ball of dough 
+P02_12_149,in the kitchen put ball of dough 
+P02_12_15,in the kitchen pick up tahini 
+P02_12_16,in the kitchen open tahini 
+P02_12_17,in the kitchen pick up spoon 
+P02_12_172,in the kitchen roll 
+P02_12_173,in the kitchen pick up oil bottle 
+P02_12_174,in the kitchen pour oil bottle into plate 
+P02_12_175,in the kitchen put bottle of oil 
+P02_12_18,in the kitchen mix tahini 
+P02_12_187,in the kitchen get some meat from pan 
+P02_12_188,in the kitchen put meat on ball of dough 
+P02_12_189,in the kitchen get some meat 
+P02_12_19,in the kitchen stirring tahini 
+P02_12_193,in the kitchen squeeze 
+P02_12_196,in the kitchen get meat 
+P02_12_198,in the kitchen get meat mix 
+P02_12_20,in the kitchen scoop tahini 
+P02_12_203,in the kitchen put mix on ball of dough 
+P02_12_208,in the kitchen get meat mix from pan 
+P02_12_212,in the kitchen put meat mix on ball of dough 
+P02_12_213,in the kitchen put mix meat on ball of dough 
+P02_12_219,in the kitchen put tray on stove 
+P02_12_22,in the kitchen pour tahini on meat 
+P02_12_222,in the kitchen pick up plate 
+P02_12_223,in the kitchen pour oil from plate to tray 
+P02_12_224,in the kitchen spread oil in tray 
+P02_12_226,in the kitchen pour oil in tray 
+P02_12_228,in the kitchen get bowl of dough from bowl 
+P02_12_23,in the kitchen put tahini on meat 
+P02_12_232,in the kitchen turn oven on 
+P02_12_24,in the kitchen close tahini 
+P02_12_25,in the kitchen put tahini away 
+P02_12_253,in the kitchen roll all ball of dough 
+P02_12_26,in the kitchen open yoghurt 
+P02_12_264,in the kitchen put meat mix on dough 
+P02_12_267,in the kitchen get mix meat from pan 
+P02_12_268,in the kitchen put mix meat on dough 
+P02_12_273,in the kitchen get meat mix from pan from spoon 
+P02_12_278,in the kitchen get tray 
+P02_12_279,in the kitchen remove bags 
+P02_12_28,in the kitchen scoop yoghurt 
+P02_12_284,in the kitchen pour oil 
+P02_12_285,in the kitchen pick up olive oil bottle 
+P02_12_286,in the kitchen pour oil on tray 
+P02_12_288,in the kitchen pick up dough half dough 
+P02_12_292,in the kitchen pick up ball of dough 
+P02_12_296,in the kitchen put ball of dough on tray 
+P02_12_3,in the kitchen pick up herb 
+P02_12_302,in the kitchen open jar 
+P02_12_303,in the kitchen scoop thyme 
+P02_12_304,in the kitchen put thyme in tray 
+P02_12_306,in the kitchen mix thyme and olive oil in plate 
+P02_12_307,in the kitchen scoop thyme and olive oil using hand 
+P02_12_308,in the kitchen put thyme and olive oil on dough 
+P02_12_31,in the kitchen close yoghurt 
+P02_12_312,in the kitchen put plate 
+P02_12_314,in the kitchen pour olive oil into plate 
+P02_12_315,in the kitchen return bottle 
+P02_12_316,in the kitchen hold plate 
+P02_12_317,in the kitchen get thyme 
+P02_12_318,in the kitchen mix thyme in plate 
+P02_12_320,in the kitchen add olive 
+P02_12_321,in the kitchen mix olive oil and thyme 
+P02_12_324,in the kitchen scoop olive oil and thyme 
+P02_12_325,in the kitchen put olive oil and thyme into dough 
+P02_12_326,in the kitchen put mixture of olive oil and thyme onto dough 
+P02_12_327,in the kitchen scoop olive oil and dough from plate 
+P02_12_328,in the kitchen add olive oil and thyme to dough 
+P02_12_329,in the kitchen pour olive oil and thyme from plate to dough 
+P02_12_33,in the kitchen mix meat 
+P02_12_331,in the kitchen scoop thyme using spoon 
+P02_12_332,in the kitchen add thyme to dough 
+P02_12_333,in the kitchen pour thyme from plate to dough 
+P02_12_334,in the kitchen put plate in sink 
+P02_12_335,in the kitchen open tap 
+P02_12_337,in the kitchen pick up towel 
+P02_12_34,in the kitchen stir meat with yoghurt and tahini 
+P02_12_340,in the kitchen pick up pine nuts 
+P02_12_341,in the kitchen pour pine nuts into hand 
+P02_12_342,in the kitchen place pine nuts 
+P02_12_343,in the kitchen add pine nuts to pie 
+P02_12_344,in the kitchen pick up pine nuts from hand 
+P02_12_345,in the kitchen put pine nuts on pie 
+P02_12_347,in the kitchen pick up pine nuts bag 
+P02_12_348,in the kitchen pour pine nuts bag into hand 
+P02_12_349,in the kitchen put pine nuts bag 
+P02_12_357,in the kitchen return pine nuts bag 
+P02_12_358,in the kitchen add pine nuts on pie 
+P02_12_36,in the kitchen get tupperware 
+P02_12_363,in the kitchen return bag 
+P02_12_366,in the kitchen pick up oven gloves 
+P02_12_367,in the kitchen open oven 
+P02_12_368,in the kitchen remove oven tray 
+P02_12_369,in the kitchen push oven tray 
+P02_12_370,in the kitchen close oven 
+P02_12_371,in the kitchen remove oven glove 
+P02_12_4,in the kitchen open herb 
+P02_12_40,in the kitchen open tupperware 
+P02_12_41,in the kitchen pick up meat 
+P02_12_42,in the kitchen put meat in tupperware 
+P02_12_46,in the kitchen put in tupperware 
+P02_12_5,in the kitchen sprinkle herb on meat 
+P02_12_50,in the kitchen close tupperware 
+P02_12_51,in the kitchen put tupperware away 
+P02_12_53,in the kitchen stir meat with tahini and yoghurt 
+P02_12_54,in the kitchen mixing meat 
+P02_12_58,in the kitchen pour yoghurt 
+P02_12_62,in the kitchen stir meat with yoghurt 
+P02_12_63,in the kitchen still stirring meat 
+P02_12_64,in the kitchen taste meat mix 
+P02_12_65,in the kitchen stir meat 
+P02_12_66,in the kitchen pick up pan 
+P02_12_67,in the kitchen put pan 
+P02_12_7,in the kitchen close herb 
+P02_12_72,in the kitchen move bags 
+P02_12_77,in the kitchen pick up open cupboard 
+P02_12_78,in the kitchen return tray 
+P02_12_79,in the kitchen pick another tray 
+P02_12_8,in the kitchen put herb 
+P02_12_80,in the kitchen remove lid 
+P02_12_81,in the kitchen put lid 
+P02_12_83,in the kitchen shake tray 
+P02_12_87,in the kitchen move can 
+P02_12_90,in the kitchen put thyme 
+P02_12_91,in the kitchen set off timer 
+P02_12_93,in the kitchen pull drawer 
+P02_12_94,in the kitchen pick up bowl 
+P02_12_95,in the kitchen push drawer 
+P02_12_99,in the kitchen put bowl 
+P02_13_0,in the kitchen pick up oven glove 
+P02_13_1,in the kitchen wear oven glove 
+P02_13_10,in the kitchen put tray in oven 
+P02_13_12,in the kitchen set timer 
+P02_14_4,in the kitchen pull drawer of oven 
+P02_14_5,in the kitchen place tray on stove 
+P02_15_0,in the kitchen pick up tupperware 
+P02_15_1,in the kitchen pick up pie 
+P02_15_10,in the kitchen put pie 
+P02_15_15,in the kitchen move pie 
+P02_15_16,in the kitchen pick up lid 
+P02_15_18,in the kitchen pick up paper towel 
+P02_15_19,in the kitchen get paper towel 
+P02_15_2,in the kitchen place pie in tupperware 
+P02_15_21,in the kitchen dry tupperware 
+P02_15_23,in the kitchen hold tupperware 
+P02_15_30,in the kitchen put down pie 
+P02_15_34,in the kitchen place tupperware 
+P02_15_36,in the kitchen dry lid 
+P02_15_37,in the kitchen hold and dry lid 
+P02_15_39,in the kitchen pick up two tupperware 
+P02_15_4,in the kitchen place in tupperware 
+P02_15_42,in the kitchen remove salad from fridge 
+P02_15_43,in the kitchen put salad plate 
+P02_15_44,in the kitchen move stuff in fridge 
+P02_15_45,in the kitchen move eggs in fridge 
+P02_15_46,in the kitchen put tupperware in fridge 
+P02_15_48,in the kitchen move tupperware 
+P02_15_6,in the kitchen place pie 
+P03_21_1,in the kitchen grab glass 
+P03_21_10,in the kitchen put juice 
+P03_21_12,in the kitchen pick up glass 
+P03_21_4,in the kitchen grab juice 
+P03_21_6,in the kitchen open juice 
+P03_21_7,in the kitchen pour juice 
+P03_21_8,in the kitchen close juice 
+P03_22_0,in the kitchen put bag 
+P03_22_1,in the kitchen put glass 
+P03_22_10,in the kitchen grab drink 
+P03_22_12,in the kitchen put drink in bag 
+P03_22_14,in the kitchen pick up bag 
+P03_22_16,in the kitchen grab pancakes 
+P03_22_21,in the kitchen put pancakes on plate 
+P03_22_23,in the kitchen put in bin 
+P03_22_3,in the kitchen grab lunch box 
+P03_22_5,in the kitchen grab fork 
+P03_22_7,in the kitchen put lunch box in bag 
+P03_22_8,in the kitchen put fork in bag 
+P03_23_1,in the kitchen turn on oven 
+P03_23_10,in the kitchen put salmon 
+P03_23_102,in the kitchen pour potatoes 
+P03_23_106,in the kitchen put potatoes 
+P03_23_109,in the kitchen grab salt 
+P03_23_112,in the kitchen put salt 
+P03_23_114,in the kitchen shake saucepan 
+P03_23_115,in the kitchen check temperature 
+P03_23_117,in the kitchen move saucepan 
+P03_23_118,in the kitchen grab kettle 
+P03_23_119,in the kitchen pour kettle 
+P03_23_12,in the kitchen grab baking tray 
+P03_23_120,in the kitchen put kettle 
+P03_23_121,in the kitchen grab tray 
+P03_23_124,in the kitchen close the oven 
+P03_23_14,in the kitchen put baking tray 
+P03_23_16,in the kitchen grab foil 
+P03_23_18,in the kitchen open salmon 
+P03_23_19,in the kitchen pick up foil 
+P03_23_20,in the kitchen place foil 
+P03_23_24,in the kitchen get scissors 
+P03_23_25,in the kitchen cut foil 
+P03_23_26,in the kitchen cut foil in half 
+P03_23_27,in the kitchen put scissors in drawer 
+P03_23_29,in the kitchen pick up salmon 
+P03_23_3,in the kitchen pour soap 
+P03_23_30,in the kitchen put salmon on foil 
+P03_23_33,in the kitchen put packaging on side 
+P03_23_37,in the kitchen grab oil 
+P03_23_41,in the kitchen put oil on side 
+P03_23_42,in the kitchen grab pepper 
+P03_23_43,in the kitchen open pepper 
+P03_23_44,in the kitchen grind pepper 
+P03_23_46,in the kitchen close pepper 
+P03_23_47,in the kitchen put pepper on side 
+P03_23_48,in the kitchen grab herbs 
+P03_23_49,in the kitchen pour herbs 
+P03_23_51,in the kitchen close herbs 
+P03_23_52,in the kitchen put herbs on side 
+P03_23_54,in the kitchen grab garlic paste 
+P03_23_56,in the kitchen press garlic paste 
+P03_23_58,in the kitchen open garlic paste 
+P03_23_59,in the kitchen squeeze garlic paste 
+P03_23_61,in the kitchen scoop garlic paste 
+P03_23_62,in the kitchen close garlic paste 
+P03_23_64,in the kitchen put garlic paste 
+P03_23_66,in the kitchen spread garlic 
+P03_23_69,in the kitchen grab tabasco 
+P03_23_70,in the kitchen open tabasco 
+P03_23_71,in the kitchen pour tabasco 
+P03_23_72,in the kitchen close tabasco 
+P03_23_73,in the kitchen put tabasco on the side 
+P03_23_77,in the kitchen sprinkle salt 
+P03_23_8,in the kitchen grab salmon 
+P03_23_82,in the kitchen wrap foil 
+P03_23_83,in the kitchen put foil on tray 
+P03_23_84,in the kitchen fold foil 
+P03_23_88,in the kitchen put foil 
+P03_23_90,in the kitchen pick up kettle 
+P03_23_91,in the kitchen fill kettle 
+P03_23_94,in the kitchen turn kettle on 
+P03_23_95,in the kitchen grab saucepan 
+P03_23_96,in the kitchen put saucepan 
+P03_23_99,in the kitchen grab potatoes 
+P03_24_0,in the kitchen turn down hob 
+P03_24_1,in the kitchen turn on extractor fan 
+P03_24_10,in the kitchen place saucepan 
+P03_24_101,in the kitchen put lid on saucepan 
+P03_24_102,in the kitchen move tap 
+P03_24_103,in the kitchen drain water 
+P03_24_104,in the kitchen pour vegetables on plate 
+P03_24_106,in the kitchen grab spoon 
+P03_24_107,in the kitchen spoon vegetables 
+P03_24_110,in the kitchen spoon potatoes 
+P03_24_111,in the kitchen put saucepan on side 
+P03_24_112,in the kitchen turn off oven 
+P03_24_114,in the kitchen turn off extractor fan 
+P03_24_116,in the kitchen grab oven mitts 
+P03_24_119,in the kitchen put tray on side 
+P03_24_120,in the kitchen put down oven mitts 
+P03_24_121,in the kitchen open foil 
+P03_24_124,in the kitchen put on oven mitt 
+P03_24_125,in the kitchen spoon salmon 
+P03_24_127,in the kitchen grab plate 
+P03_24_128,in the kitchen put salmon on plate 
+P03_24_13,in the kitchen grab scissors 
+P03_24_131,in the kitchen put foil in bin 
+P03_24_132,in the kitchen put oven mitts on oven 
+P03_24_134,in the kitchen grab cutlery 
+P03_24_15,in the kitchen open carrot bag 
+P03_24_16,in the kitchen pour carrots 
+P03_24_17,in the kitchen open sweet corn 
+P03_24_18,in the kitchen pour sweet corn 
+P03_24_19,in the kitchen grab carrot bag 
+P03_24_2,in the kitchen open freezer 
+P03_24_22,in the kitchen put carrots 
+P03_24_23,in the kitchen put sweet corn 
+P03_24_25,in the kitchen close freezer 
+P03_24_26,in the kitchen grab lid 
+P03_24_28,in the kitchen shake pan 
+P03_24_29,in the kitchen transfer water 
+P03_24_30,in the kitchen put pan on hob 
+P03_24_32,in the kitchen grab knife 
+P03_24_34,in the kitchen cut potatoes 
+P03_24_37,in the kitchen put saucepan on hob 
+P03_24_4,in the kitchen grab sweet corn 
+P03_24_40,in the kitchen turn down fan 
+P03_24_41,in the kitchen stir potatoes 
+P03_24_43,in the kitchen keep stirring potatoes 
+P03_24_5,in the kitchen grab carrots 
+P03_24_52,in the kitchen grab spice 
+P03_24_6,in the kitchen close freezer drawer 
+P03_24_61,in the kitchen put pepper 
+P03_24_62,in the kitchen spoon spice mix 
+P03_24_63,in the kitchen close spice mix 
+P03_24_64,in the kitchen put spice mix on side 
+P03_24_71,in the kitchen grab plates 
+P03_24_73,in the kitchen put rubbish in bin 
+P03_24_75,in the kitchen put scissors 
+P03_24_8,in the kitchen move lunch box 
+P03_24_80,in the kitchen tear off plastic 
+P03_24_81,in the kitchen tear off paper 
+P03_24_83,in the kitchen shake potatoes 
+P03_24_85,in the kitchen turn on water 
+P03_24_87,in the kitchen grab plastic 
+P03_24_88,in the kitchen wash plastic 
+P03_24_90,in the kitchen put plastic on side 
+P03_25_0,in the kitchen put glasses on the side 
+P03_25_1,in the kitchen fill glass 
+P03_25_13,in the kitchen fill up glass 
+P03_25_2,in the kitchen put glass on side 
+P03_25_4,in the kitchen take squash 
+P03_25_6,in the kitchen pour squash 
+P03_25_7,in the kitchen close squash 
+P03_25_8,in the kitchen put squash in fridge 
+P03_25_9,in the kitchen take grapes 
+P03_26_0,in the kitchen put plates on the side 
+P03_26_2,in the kitchen put grapes in fridge 
+P04_24_10,in the kitchen pick up peanuts 
+P04_24_11,in the kitchen open packet 
+P04_24_13,in the kitchen put down baking tray 
+P04_24_14,in the kitchen pick up baking tray 
+P04_24_16,in the kitchen pick up scales 
+P04_24_18,in the kitchen put down scales 
+P04_24_19,in the kitchen put baking tray on scales 
+P04_24_20,in the kitchen measure peanuts 
+P04_24_22,in the kitchen pick up clip 
+P04_24_23,in the kitchen close packet 
+P04_24_25,in the kitchen put away peanuts 
+P04_24_26,in the kitchen put away scales 
+P04_24_27,in the kitchen grind spices 
+P04_24_28,in the kitchen scrape pestle 
+P04_24_29,in the kitchen scrape spices into pan 
+P04_24_30,in the kitchen stir spice paste 
+P04_24_32,in the kitchen read packet 
+P04_24_33,in the kitchen look for coconut powder 
+P04_24_38,in the kitchen test water 
+P04_24_39,in the kitchen fill bowl with water 
+P04_24_41,in the kitchen sprinkle coconut powder 
+P04_24_42,in the kitchen mix coconut powder 
+P04_24_43,in the kitchen open coconut powder 
+P04_24_46,in the kitchen stir coconut milk 
+P04_24_47,in the kitchen spoon coconut milk to spice paste 
+P04_24_48,in the kitchen mix spice paste 
+P04_24_5,in the kitchen pick up slow cooker bowl 
+P04_24_50,in the kitchen spoon coconut milk into pan 
+P04_24_53,in the kitchen pick up beef 
+P04_24_55,in the kitchen cut beef 
+P04_24_58,in the kitchen put down scissors 
+P04_24_6,in the kitchen put down slow cooker bowl 
+P04_24_61,in the kitchen put peanuts in oven 
+P04_24_62,in the kitchen put timer on 
+P04_24_63,in the kitchen stir beef 
+P04_25_0,in the kitchen mix coconut milk 
+P04_25_1,in the kitchen add water 
+P04_25_10,in the kitchen throw away bag 
+P04_25_11,in the kitchen pick up peeler 
+P04_25_12,in the kitchen peel potatoes 
+P04_25_13,in the kitchen peel potato 
+P04_25_19,in the kitchen check peanuts 
+P04_25_2,in the kitchen pour water 
+P04_25_21,in the kitchen cut potato 
+P04_25_24,in the kitchen still cutting potato 
+P04_25_25,in the kitchen put potato in pan 
+P04_25_26,in the kitchen stir pan 
+P04_25_3,in the kitchen pour coconut milk powder 
+P04_25_5,in the kitchen put water 
+P04_25_8,in the kitchen pick up potatoes 
+P04_25_9,in the kitchen turn on light 
+P04_26_0,in the kitchen pick up chillies 
+P04_26_1,in the kitchen slice chillies 
+P04_26_2,in the kitchen remove pith 
+P04_27_0,in the kitchen remove pith from chilli 
+P04_27_1,in the kitchen slice chilli 
+P04_27_10,in the kitchen put chilli in pan 
+P04_27_6,in the kitchen chop end of chilli 
+P04_28_1,in the kitchen pour coconut milk into pan 
+P04_28_13,in the kitchen look for spice 
+P04_28_14,in the kitchen keep looking for spice 
+P04_28_18,in the kitchen open tub 
+P04_28_19,in the kitchen smell 
+P04_28_20,in the kitchen spoon spice 
+P04_28_22,in the kitchen pick up tamarind spice 
+P04_28_23,in the kitchen look at label 
+P04_28_24,in the kitchen put back 
+P04_28_4,in the kitchen put onion in pan 
+P04_28_6,in the kitchen pick up onion 
+P04_28_7,in the kitchen unwrap onion 
+P04_28_8,in the kitchen peel onion 
+P04_29_0,in the kitchen look in fridge 
+P04_29_11,in the kitchen pick up shreddies 
+P04_29_12,in the kitchen pick up tub 
+P04_29_14,in the kitchen spoon sugar 
+P04_29_16,in the kitchen pick up chopping board 
+P04_29_17,in the kitchen put down chopping board 
+P04_29_18,in the kitchen pick up potato 
+P04_29_19,in the kitchen put in pan 
+P04_29_2,in the kitchen taste liquid 
+P04_29_22,in the kitchen pick up lid of slow cooker 
+P04_29_23,in the kitchen pick up slow cooker pan 
+P04_29_24,in the kitchen put pan in slow cooker 
+P04_29_25,in the kitchen move rice cooker 
+P04_29_26,in the kitchen put rice cooker on floor 
+P04_29_27,in the kitchen move slow cooker 
+P04_29_28,in the kitchen plug slow cooker in 
+P04_29_29,in the kitchen turn on socket 
+P04_29_3,in the kitchen look in spice drawer 
+P04_29_30,in the kitchen put lid on slow cooker 
+P04_29_31,in the kitchen put away coconut powder 
+P04_29_32,in the kitchen put beef packet in bin 
+P04_29_33,in the kitchen rinse beef packet 
+P04_29_34,in the kitchen put container down 
+P04_29_35,in the kitchen put shrimp paste in cupboard 
+P04_29_36,in the kitchen put fish sauce in cupboard 
+P04_29_37,in the kitchen put lemon grass and galangal in fridge 
+P04_29_38,in the kitchen pick up container 
+P04_29_4,in the kitchen put cinnamon in pan 
+P04_29_40,in the kitchen pick up rubbish 
+P04_29_41,in the kitchen pick up packet 
+P04_29_43,in the kitchen put veggie peelings in new bin 
+P04_29_44,in the kitchen put chopping board down 
+P04_29_46,in the kitchen dry knife 
+P04_29_47,in the kitchen put knife away 
+P04_29_49,in the kitchen dry pan 
+P04_29_53,in the kitchen pick up tuna patties 
+P04_29_54,in the kitchen put tuna patties in pan 
+P04_29_55,in the kitchen open freezer drawer 
+P04_29_56,in the kitchen look for rice 
+P04_29_57,in the kitchen pick up rice 
+P04_29_58,in the kitchen open rice 
+P04_29_59,in the kitchen put rice in microwave 
+P04_29_6,in the kitchen pour coconut powder into pan 
+P04_29_60,in the kitchen turn on microwave 
+P04_29_7,in the kitchen look at recipe 
+P04_29_8,in the kitchen spoon fish oil 
+P04_30_1,in the kitchen pick up lunch box 
+P04_30_10,in the kitchen flip tuna patty 
+P04_30_11,in the kitchen pick tuna patty 
+P04_30_12,in the kitchen put in lunch box 
+P04_30_15,in the kitchen pick up tamagoyaki 
+P04_30_16,in the kitchen put tamagoyaki in lunch box 
+P04_30_18,in the kitchen open cucumber salad 
+P04_30_19,in the kitchen put cucumber salad in lunch box 
+P04_30_2,in the kitchen open microwave 
+P04_30_20,in the kitchen put away cucumber salad 
+P04_30_21,in the kitchen open carrot 
+P04_30_22,in the kitchen put carrot in lunch box 
+P04_30_23,in the kitchen put away carrot 
+P04_30_27,in the kitchen turn off fan 
+P04_30_29,in the kitchen put away containers 
+P04_30_31,in the kitchen close lunch box 
+P04_30_33,in the kitchen dry fork 
+P04_30_34,in the kitchen put fork on lunch box 
+P04_30_37,in the kitchen pour cereal 
+P04_30_38,in the kitchen put away cereal 
+P04_30_4,in the kitchen open lunch box 
+P04_30_41,in the kitchen pick up raisins 
+P04_30_42,in the kitchen pour raisins 
+P04_30_43,in the kitchen put away raisins 
+P04_30_48,in the kitchen spoon yoghurt 
+P04_30_49,in the kitchen put away yoghurt 
+P04_30_6,in the kitchen pick up fork 
+P04_30_7,in the kitchen put rice in lunch box 
+P04_30_8,in the kitchen still putting rice in lunch box 
+P04_31_1,in the kitchen put in cupboard 
+P04_31_10,in the kitchen put away rolling pin 
+P04_31_100,in the kitchen pick up kitchen roll 
+P04_31_102,in the kitchen put chilli flakes back in cupboard 
+P04_31_103,in the kitchen stare at cupboard 
+P04_31_105,in the kitchen put kitchen roll in bin 
+P04_31_106,in the kitchen clean sink 
+P04_31_107,in the kitchen rinse sink sieve 
+P04_31_11,in the kitchen put away spoon 
+P04_31_12,in the kitchen dry spoon 
+P04_31_13,in the kitchen wipe bowl 
+P04_31_14,in the kitchen put away spatula 
+P04_31_15,in the kitchen load dishwasher 
+P04_31_16,in the kitchen put bowl in dishwasher 
+P04_31_17,in the kitchen put spatula in dishwasher 
+P04_31_18,in the kitchen put chopping board in dishwasher 
+P04_31_19,in the kitchen put cutlery in dishwasher 
+P04_31_20,in the kitchen put wok in dishwasher 
+P04_31_21,in the kitchen put tupperware in dishwasher 
+P04_31_23,in the kitchen empty tupperware into bin 
+P04_31_24,in the kitchen put baking tray in dishwasher 
+P04_31_25,in the kitchen put baking tray in cupboard 
+P04_31_26,in the kitchen throw away paper 
+P04_31_27,in the kitchen wash pestle and mortar 
+P04_31_28,in the kitchen still washing pestle and mortar 
+P04_31_32,in the kitchen put in dishwasher 
+P04_31_33,in the kitchen put away spice 
+P04_31_34,in the kitchen check slow cooker 
+P04_31_35,in the kitchen stir slow cooker 
+P04_31_37,in the kitchen taste food 
+P04_31_38,in the kitchen drain sink 
+P04_31_4,in the kitchen emptying dishwasher 
+P04_31_43,in the kitchen pick up coconut powder 
+P04_31_44,in the kitchen pour coconut powder in slow cooker 
+P04_31_48,in the kitchen tip water into slow cooker 
+P04_31_5,in the kitchen put away pan 
+P04_31_51,in the kitchen pour coconut powder 
+P04_31_53,in the kitchen pour liquid into glass 
+P04_31_54,in the kitchen pour water into slow cooker 
+P04_31_57,in the kitchen put lid back on slow cooker 
+P04_31_59,in the kitchen pick up rice cooker 
+P04_31_6,in the kitchen put away tray 
+P04_31_60,in the kitchen put rice cooker down 
+P04_31_61,in the kitchen plug in rice cooker 
+P04_31_62,in the kitchen turn on switch 
+P04_31_63,in the kitchen pull out rice cooker bowl 
+P04_31_64,in the kitchen pick up bag of rice 
+P04_31_65,in the kitchen measure rice 
+P04_31_66,in the kitchen put away rice 
+P04_31_67,in the kitchen wash rice 
+P04_31_68,in the kitchen still washing rice 
+P04_31_7,in the kitchen put away cutlery 
+P04_31_70,in the kitchen measure water into rice cooker 
+P04_31_71,in the kitchen dry outside of rice cooker bowl 
+P04_31_73,in the kitchen pick up rice paddle 
+P04_31_74,in the kitchen scrape rice into water 
+P04_31_75,in the kitchen put lid on rice cooker 
+P04_31_77,in the kitchen take out broccoli 
+P04_31_80,in the kitchen put broccoli down 
+P04_31_81,in the kitchen fill pan with water 
+P04_31_83,in the kitchen get knife 
+P04_31_84,in the kitchen chop broccoli 
+P04_31_85,in the kitchen put broccoli in pan 
+P04_31_86,in the kitchen put broccoli sort in bin 
+P04_31_89,in the kitchen pick up chilli flakes 
+P04_31_9,in the kitchen put away measuring jug 
+P04_31_90,in the kitchen pour chilli flakes in slow cooker 
+P04_31_92,in the kitchen taste curry 
+P04_31_93,in the kitchen put salt in curry 
+P04_31_95,in the kitchen fix pepper container 
+P04_32_1,in the kitchen mix broccoli 
+P04_32_2,in the kitchen check rice 
+P04_32_4,in the kitchen pick a plate 
+P04_32_6,in the kitchen spoon rice onto plate 
+P04_33_0,in the kitchen put rice back 
+P04_33_10,in the kitchen open slow cooker 
+P04_33_11,in the kitchen serve curry 
+P04_33_14,in the kitchen put broccoli on plate 
+P04_33_16,in the kitchen drain broccoli 
+P04_33_20,in the kitchen put fork on plate 
+P04_33_21,in the kitchen turn off light 
+P04_33_5,in the kitchen spoon rice into tupperware 
+P04_33_6,in the kitchen turn off rice cooker 
+P04_33_7,in the kitchen plug in kettle 
+P04_33_9,in the kitchen put tupperware into freezer 
+P01_14_59,in the kitchen put down down slice 

@@ -1,0 +1,952 @@
+narration_id,narration
+P01_11_0,takes plate
+P01_11_1,puts down plate
+P01_11_10,takes paper
+P01_11_100,washes cloth
+P01_11_101,takes cloth
+P01_11_102,squeezes cloth
+P01_11_103,wipes counter
+P01_11_104,wipes sink
+P01_11_105,continues wiping sink
+P01_11_107,takes onion
+P01_11_108,turns on tap
+P01_11_109,washes sink
+P01_11_11,opens bin
+P01_11_110,turns off tap
+P01_11_112,wipes cooker
+P01_11_113,puts down cloth
+P01_11_115,throws onion in
+P01_11_116,closes bin
+P01_11_118,dries hands
+P01_11_119,hands cloth
+P01_11_12,throws paper into bin
+P01_11_120,takes hand
+P01_11_121,throws can into bin
+P01_11_122,takes bin
+P01_11_123,puts bin onto other bin
+P01_11_124,takes bins
+P01_11_125,puts down bins
+P01_11_127,closes bag
+P01_11_128,ties bag
+P01_11_132,removes bag of the bin
+P01_11_133,takes bin out
+P01_11_135,puts bag into bin
+P01_11_136,takes garbage bag
+P01_11_137,opens bag
+P01_11_14,takes tray
+P01_11_140,takes lid
+P01_11_141,closes container
+P01_11_142,takes container and plate
+P01_11_143,opens fridge
+P01_11_144,moves things in the fridge
+P01_11_145,puts container into fridge
+P01_11_146,puts plate into fridge
+P01_11_147,closes fridge
+P01_11_15,takes spatula
+P01_11_16,puts down tray
+P01_11_17,takes trays
+P01_11_18,puts down trays
+P01_11_19,puts down spatula and pizza cutter
+P01_11_2,takes pizza
+P01_11_23,takes tablecloth
+P01_11_24,folds tablecloth
+P01_11_25,puts tablecloth into cupboard
+P01_11_26,takes container
+P01_11_27,opens container
+P01_11_28,takes pizza slice
+P01_11_29,puts pizza slice into container
+P01_11_3,puts pizza onto plate
+P01_11_31,takes knife
+P01_11_32,puts down knife
+P01_11_33,cuts pizza
+P01_11_37,puts down lid
+P01_11_40,washes hand
+P01_11_42,takes sponge
+P01_11_43,squeezes sponge
+P01_11_44,takes washing up liquid
+P01_11_45,puts down washing up liquid
+P01_11_46,washes knife
+P01_11_47,takes fork
+P01_11_48,washes fork
+P01_11_49,puts down fork
+P01_11_5,puts pizza slice onto plate
+P01_11_50,takes pizza cutter
+P01_11_52,rinses pizza cutter
+P01_11_53,washes pizza cutter
+P01_11_54,puts down pizza cutter
+P01_11_56,washes plate
+P01_11_59,washes spatula
+P01_11_60,puts down spatula
+P01_11_62,washes tray
+P01_11_67,puts down sponge
+P01_11_68,takes glass
+P01_11_69,washes glass
+P01_11_71,rinses glass
+P01_11_72,puts glass into rack
+P01_11_74,rinses spatula
+P01_11_75,puts spatula into rack.
+P01_11_77,rinses knife.
+P01_11_78,washes knife.
+P01_11_81,puts knife into rack.
+P01_11_82,takes fork.
+P01_11_83,washes fork.
+P01_11_84,rinses fork.
+P01_11_85,takes pizza cutter.
+P01_11_86,rinses pizza cutter.
+P01_11_87,puts pizza cutter into rack.
+P01_11_88,takes tray.
+P01_11_89,rinses tray.
+P01_11_9,folds paper
+P01_11_90,puts tray into rack.
+P01_11_93,puts tray into rack
+P01_11_95,rinses plate
+P01_11_98,puts plate into track
+P01_11_99,washes sponge
+P01_12_0,takes cutlery
+P01_12_1,opens drawer
+P01_12_10,closes drawer
+P01_12_11,takes cutting board
+P01_12_12,opens cupboard
+P01_12_13,puts cutting board into cupboard
+P01_12_15,puts trays into cupboard
+P01_12_16,takes pan
+P01_12_17,puts pan into cupboard
+P01_12_18,takes bowls
+P01_12_20,puts bowls into cupboard
+P01_12_22,takes out
+P01_12_23,closes cupboard
+P01_12_25,pulls down cup
+P01_12_26,takes plates
+P01_12_28,puts plates into cupboard
+P01_12_29,takes measuring cups and glass
+P01_12_31,puts cup into cupboard
+P01_12_32,puts measuring cup into cupboard
+P01_12_34,takes rolling bin
+P01_12_37,puts rolling pin into drawer
+P01_12_4,puts down spoon
+P01_12_40,unfolds tablecloth
+P01_12_41,pulls down tablecloth
+P01_12_42,puts cup onto tablecloth
+P01_12_43,takes spoon
+P01_12_46,takes soy milk
+P01_12_49,puts down container
+P01_12_50,shakes soy milk
+P01_12_51,opens milk
+P01_12_52,pours milk
+P01_12_53,closes milk
+P01_12_54,puts down soya milk
+P01_12_56,takes cereals
+P01_12_57,puts down cereals
+P01_12_58,opens cereal box
+P01_12_59,unfolds cereal bag
+P01_12_60,pours cereals
+P01_12_7,puts down tong
+P01_13_0,takes cereal bag
+P01_13_1,folds cereal bag
+P01_13_10,hangs table cloth
+P01_13_12,pours washing op liquid
+P01_13_15,washes cup and spoon
+P01_13_16,rinses spoon
+P01_13_18,rinses cup
+P01_13_2,puts cereal bag into cereal box
+P01_13_20,puts down cup
+P01_13_25,puts down glass
+P01_13_26,takes bottle
+P01_13_27,pours water into glass
+P01_13_28,drinks water
+P01_13_3,closes cereal box
+P01_13_5,puts cereal box into cupboard
+P01_13_7,takes cup and spoon
+P01_13_8,puts down cup and spoon
+P01_13_9,takes table cloth
+P01_14_1,puts down bin
+P01_14_100,takes kettle
+P01_14_101,opens kettle
+P01_14_103,pours water into kettle
+P01_14_105,closes kettle
+P01_14_106,puts down kettle
+P01_14_107,turns on kettle
+P01_14_109,takes colander
+P01_14_11,moves bin
+P01_14_110,puts down colander
+P01_14_111,puts lid into cupboard
+P01_14_113,puts down pan
+P01_14_114,pours aubergine into pan
+P01_14_115,puts down cutting board
+P01_14_12,lifts bin
+P01_14_120,stirs aubergine
+P01_14_121,puts down aubergine
+P01_14_122,takes salt
+P01_14_123,pours salt
+P01_14_124,opens salt
+P01_14_125,closes salt
+P01_14_126,puts down salt
+P01_14_132,puts down onion
+P01_14_133,cuts onion
+P01_14_135,puts onion into container
+P01_14_14,moves bins
+P01_14_141,slices onion
+P01_14_142,continues slicing onion
+P01_14_143,chops onion
+P01_14_144,continues chopping onion
+P01_14_146,takes onion bits
+P01_14_148,stirs
+P01_14_155,opens bottle
+P01_14_157,takes corkscrew
+P01_14_159,takes cork
+P01_14_161,puts down bottle opener
+P01_14_164,puts down bottle
+P01_14_169,adjusts hob
+P01_14_17,crushes soy milk
+P01_14_173,pours water into saucepan
+P01_14_178,pours onion into pan
+P01_14_18,puts soy milk into bin
+P01_14_181,stirs food
+P01_14_182,continues stirring food
+P01_14_19,takes can and paper
+P01_14_190,stirs salt
+P01_14_198,moves bottle
+P01_14_199,moves glass
+P01_14_2,takes bag
+P01_14_20,crushes can
+P01_14_200,puts down table cloth
+P01_14_201,moves plates
+P01_14_202,moves container
+P01_14_208,puts down plates
+P01_14_21,puts can into bin
+P01_14_213,puts down cutlery
+P01_14_214,moves chair
+P01_14_22,tears paper
+P01_14_221,takes tomato sauce
+P01_14_222,opens sauce
+P01_14_223,pours sauce
+P01_14_224,continues pouring sauce
+P01_14_225,puts down sauce
+P01_14_229,takes pasta
+P01_14_23,puts paper into bin
+P01_14_231,takes scissor
+P01_14_232,cuts pasta bag
+P01_14_233,puts scissor into drawer
+P01_14_235,takes pasta out of the bag
+P01_14_236,pours pasta
+P01_14_238,throws plastic bag into bin
+P01_14_241,stirs pasta
+P01_14_249,moves things
+P01_14_253,rinses bottle
+P01_14_254,rinses sauce
+P01_14_257,puts lid and bottle into bins
+P01_14_259,takes containers
+P01_14_270,takes glasses
+P01_14_271,puts down glasses
+P01_14_272,takes wine bottle
+P01_14_273,pours wine into glass
+P01_14_276,moves glasses
+P01_14_283,tastes pasta
+P01_14_287,checks time
+P01_14_29,puts spoon into drawer
+P01_14_290,turns off hob
+P01_14_291,lifts saucepan
+P01_14_292,puts down saucepan
+P01_14_293,puts colander into sink
+P01_14_295,takes saucepan
+P01_14_296,drains pasta
+P01_14_297,continues draining pasta
+P01_14_299,pours pasta into pan
+P01_14_3,unrolls bag
+P01_14_301,takes mozzarella
+P01_14_302,opens mozzarella bag
+P01_14_303,sprinkles mozzarella
+P01_14_307,continues stirring pasta
+P01_14_321,pours pasta onto plate
+P01_14_324,moves plate
+P01_14_327,pours pasta onto place
+P01_14_329,puts down spatulas
+P01_14_330,takes pan and spatulas
+P01_14_331,puts down pan and spatulas
+P01_14_334,throws pasta into bin
+P01_14_337,washes hands
+P01_14_339,closes tap
+P01_14_34,takes mushrooms
+P01_14_341,hangs cloth
+P01_14_342,closes mozzarella bag
+P01_14_343,folds mozzarella bag
+P01_14_345,takes clip
+P01_14_346,puts clip on bag
+P01_14_349,puts mozzarella into fridge
+P01_14_35,puts down mushrooms
+P01_14_37,looks for something
+P01_14_41,puts down mushrooms and container
+P01_14_42,takes bowl
+P01_14_43,puts down bowl
+P01_14_47,puts down pasta
+P01_14_48,pulls down container
+P01_14_49,takes mushroom
+P01_14_5,continues opening bag
+P01_14_50,puts down mushroom
+P01_14_53,takes aubergine and celery
+P01_14_54,puts down celery
+P01_14_56,moves mushrooms
+P01_14_61,puts down mozzarella
+P01_14_68,puts down tomato sauce mozzarella and container
+P01_14_7,takes banana skin
+P01_14_77,takes aubergine
+P01_14_8,puts banana skin into bag
+P01_14_80,moves cutting board
+P01_14_81,takes olive oil
+P01_14_82,opens oil
+P01_14_83,pours oil into pan
+P01_14_84,closes oil
+P01_14_85,puts down oil
+P01_14_86,turns on hob
+P01_14_9,puts bag in to bin
+P01_14_90,cuts aubergine
+P01_14_91,continues cutting aubergine
+P01_14_92,dices aubergine
+P01_14_93,continues dicing aubergine
+P01_14_95,stills dicing aubergine
+P01_14_98,throws aubergine end into bin
+P01_14_99,checks oil
+P01_15_10,puts plate onto plates
+P01_15_100,puts plate down
+P01_15_108,moves pan
+P01_15_109,removes pasta
+P01_15_114,adjusts tap
+P01_15_118,rinses knife
+P01_15_127,rinses fork
+P01_15_152,takes spatula.
+P01_15_153,rinses spatula.
+P01_15_154,puts down spatula.
+P01_15_155,closes tap.
+P01_15_156,washes cutting board.
+P01_15_157,takes washing up liquid.
+P01_15_158,pours washing up liquid.
+P01_15_159,puts down washing up liquid.
+P01_15_160,washes pan.
+P01_15_161,empties pan.
+P01_15_162,continues washing pan.
+P01_15_163,puts down pan.
+P01_15_164,takes colander.
+P01_15_165,removes pasta.
+P01_15_167,washes colander
+P01_15_172,empties pan
+P01_15_174,washes pan
+P01_15_175,continues washing pan
+P01_15_179,washes container
+P01_15_18,folds table cloth
+P01_15_182,washes lid
+P01_15_186,puts down container and sponge
+P01_15_187,rinses hands
+P01_15_188,rinses container
+P01_15_194,rinses lid
+P01_15_20,puts table cloth into drawer
+P01_15_200,rinses colander
+P01_15_201,stills rinsing colander
+P01_15_210,rinses pan
+P01_15_214,rinses sponge
+P01_15_216,empties saucepan
+P01_15_220,rinses cutting board
+P01_15_221,continues rinsing cutting board
+P01_15_223,drains cutting board
+P01_15_228,squeezes pasta
+P01_15_235,takes cleansing
+P01_15_245,throws something into bin
+P01_15_251,continues wiping cooker
+P01_15_266,continues wiping counter
+P01_15_269,puts down sponges
+P01_15_270,squeezes clothe
+P01_15_277,puts down soap
+P01_15_278,moves washing up liquid
+P01_15_289,pours wine
+P01_15_30,pours washing up liquid
+P01_15_34,continues washing spatula
+P01_15_46,washes spoon
+P01_15_5,throws leftovers into bin
+P01_15_7,puts plate onto plate
+P01_15_72,continues washing plate
+P01_15_79,continues washing pate
+P01_15_87,puts on sponge
+P01_15_99,drains plate
+P02_12_0,holds pan
+P02_12_10,gets spoon
+P02_12_100,removes towels
+P02_12_103,puts towels
+P02_12_105,kneads dough
+P02_12_106,kneads dough in bowl
+P02_12_107,holds bowl
+P02_12_111,moves bowl
+P02_12_112,picks up tray
+P02_12_113,puts tray
+P02_12_114,moves paper towel
+P02_12_116,moves tray
+P02_12_117,picks up olive oil
+P02_12_118,opens olive oil bottle
+P02_12_12,picks up yoghurt
+P02_12_120,pours oil onto tray
+P02_12_121,puts olive oil bottle
+P02_12_122,spreads olive in tray
+P02_12_124,picks up dough
+P02_12_125,gets a bowl of dough
+P02_12_127,pours olive oil in plate
+P02_12_128,puts olive oil
+P02_12_129,picks up some oil
+P02_12_13,puts yoghurt
+P02_12_130,kneads dough in hand
+P02_12_131,rolls dough
+P02_12_132,puts bowl of dough
+P02_12_133,gets bowl of dough
+P02_12_134,picks up oil
+P02_12_139,spreads oil on hand
+P02_12_14,puts spoon
+P02_12_141,kneads bowl of dough
+P02_12_142,rolls bowl of dough
+P02_12_144,gets some oil
+P02_12_146,gets ball of dough
+P02_12_147,kneads ball of dough
+P02_12_148,rolls ball of dough
+P02_12_149,puts ball of dough
+P02_12_15,picks up tahini
+P02_12_16,opens tahini
+P02_12_17,picks up spoon
+P02_12_172,rolls
+P02_12_173,picks up oil bottle
+P02_12_174,pours oil bottle into plate
+P02_12_175,puts bottle of oil
+P02_12_18,mixes tahini
+P02_12_187,gets some meat from pan
+P02_12_188,puts meat on ball of dough
+P02_12_189,gets some meat
+P02_12_19,stirs tahini
+P02_12_193,squeezes
+P02_12_196,gets meat
+P02_12_198,gets meat mix
+P02_12_20,scoops tahini
+P02_12_203,puts mix on ball of dough
+P02_12_208,gets meat mix from pan
+P02_12_212,puts meat mix on ball of dough
+P02_12_213,puts mix meat on ball of dough
+P02_12_219,puts tray on stove
+P02_12_22,pours tahini on meat
+P02_12_222,picks up plate
+P02_12_223,pours oil from plate to tray
+P02_12_224,spreads oil in tray
+P02_12_226,pours oil in tray
+P02_12_228,gets bowl of dough from bowl
+P02_12_23,puts tahini on meat
+P02_12_232,turns oven on
+P02_12_24,closes tahini
+P02_12_25,puts tahini away
+P02_12_253,rolls all ball of dough
+P02_12_26,opens yoghurt
+P02_12_264,puts meat mix on dough
+P02_12_267,gets mix meat from pan
+P02_12_268,puts mix meat on dough
+P02_12_273,gets meat mix from pan from spoon
+P02_12_278,gets tray
+P02_12_279,removes bags
+P02_12_28,scoops yoghurt
+P02_12_284,pours oil
+P02_12_285,picks up olive oil bottle
+P02_12_286,pours oil on tray
+P02_12_288,picks up dough half dough
+P02_12_292,picks up ball of dough
+P02_12_296,puts ball of dough on tray
+P02_12_3,picks up herb
+P02_12_302,opens jar
+P02_12_303,scoops thyme
+P02_12_304,puts thyme in tray
+P02_12_306,mixes thyme and olive oil in plate
+P02_12_307,scoops thyme and olive oil using hand
+P02_12_308,puts thyme and olive oil on dough
+P02_12_31,closes yoghurt
+P02_12_312,puts plate
+P02_12_314,pours olive oil into plate
+P02_12_315,returns bottle
+P02_12_316,holds plate
+P02_12_317,gets thyme
+P02_12_318,mixes thyme in plate
+P02_12_320,adds olive
+P02_12_321,mixes olive oil and thyme
+P02_12_324,scoops olive oil and thyme
+P02_12_325,puts olive oil and thyme into dough
+P02_12_326,puts mixture of olive oil and thyme onto dough
+P02_12_327,scoops olive oil and dough from plate
+P02_12_328,adds olive oil and thyme to dough
+P02_12_329,pours olive oil and thyme from plate to dough
+P02_12_33,mixes meat
+P02_12_331,scoops thyme using spoon
+P02_12_332,adds thyme to dough
+P02_12_333,pours thyme from plate to dough
+P02_12_334,puts plate in sink
+P02_12_335,opens tap
+P02_12_337,picks up towel
+P02_12_34,stirs meat with yoghurt and tahini
+P02_12_340,picks up pine nuts
+P02_12_341,pours pine nuts into hand
+P02_12_342,places pine nuts
+P02_12_343,adds pine nuts to pie
+P02_12_344,picks up pine nuts from hand
+P02_12_345,puts pine nuts on pie
+P02_12_347,picks up pine nuts bag
+P02_12_348,pours pine nuts bag into hand
+P02_12_349,puts pine nuts bag
+P02_12_357,returns pine nuts bag
+P02_12_358,adds pine nuts on pie
+P02_12_36,gets tupperware
+P02_12_363,returns bag
+P02_12_366,picks up oven gloves
+P02_12_367,opens oven
+P02_12_368,removes oven tray
+P02_12_369,pushes oven tray
+P02_12_370,closes oven
+P02_12_371,removes oven glove
+P02_12_4,opens herb
+P02_12_40,opens tupperware
+P02_12_41,picks up meat
+P02_12_42,puts meat in tupperware
+P02_12_46,puts in tupperware
+P02_12_5,sprinkles herb on meat
+P02_12_50,closes tupperware
+P02_12_51,puts tupperware away
+P02_12_53,stirs meat with tahini and yoghurt
+P02_12_54,mixes meat
+P02_12_58,pours yoghurt
+P02_12_62,stirs meat with yoghurt
+P02_12_63,stills stirring meat
+P02_12_64,tastes meat mix
+P02_12_65,stirs meat
+P02_12_66,picks up pan
+P02_12_67,puts pan
+P02_12_7,closes herb
+P02_12_72,moves bags
+P02_12_77,picks up open cupboard
+P02_12_78,returns tray
+P02_12_79,picks another tray
+P02_12_8,puts herb
+P02_12_80,removes lid
+P02_12_81,puts lid
+P02_12_83,shakes tray
+P02_12_87,moves can
+P02_12_90,puts thyme
+P02_12_91,sets off timer
+P02_12_93,pulls drawer
+P02_12_94,picks up bowl
+P02_12_95,pushes drawer
+P02_12_99,puts bowl
+P02_13_0,picks up oven glove
+P02_13_1,wears oven glove
+P02_13_10,puts tray in oven
+P02_13_12,sets timer
+P02_14_4,pulls drawer of oven
+P02_14_5,places tray on stove
+P02_15_0,picks up tupperware
+P02_15_1,picks up pie
+P02_15_10,puts pie
+P02_15_15,moves pie
+P02_15_16,picks up lid
+P02_15_18,picks up paper towel
+P02_15_19,gets paper towel
+P02_15_2,places pie in tupperware
+P02_15_21,dries tupperware
+P02_15_23,holds tupperware
+P02_15_30,puts down pie
+P02_15_34,places tupperware
+P02_15_36,dries lid
+P02_15_37,holds and dry lid
+P02_15_39,picks up two tupperware
+P02_15_4,places in tupperware
+P02_15_42,removes salad from fridge
+P02_15_43,puts salad plate
+P02_15_44,moves stuff in fridge
+P02_15_45,moves eggs in fridge
+P02_15_46,puts tupperware in fridge
+P02_15_48,moves tupperware
+P02_15_6,places pie
+P03_21_1,grabs glass
+P03_21_10,puts juice
+P03_21_12,picks up glass
+P03_21_4,grabs juice
+P03_21_6,opens juice
+P03_21_7,pours juice
+P03_21_8,closes juice
+P03_22_0,puts bag
+P03_22_1,puts glass
+P03_22_10,grabs drink
+P03_22_12,puts drink in bag
+P03_22_14,picks up bag
+P03_22_16,grabs pancakes
+P03_22_21,puts pancakes on plate
+P03_22_23,puts in bin
+P03_22_3,grabs lunch box
+P03_22_5,grabs fork
+P03_22_7,puts lunch box in bag
+P03_22_8,puts fork in bag
+P03_23_1,turns on oven
+P03_23_10,puts salmon
+P03_23_102,pours potatoes
+P03_23_106,puts potatoes
+P03_23_109,grabs salt
+P03_23_112,puts salt
+P03_23_114,shakes saucepan
+P03_23_115,checks temperature
+P03_23_117,moves saucepan
+P03_23_118,grabs kettle
+P03_23_119,pours kettle
+P03_23_12,grabs baking tray
+P03_23_120,puts kettle
+P03_23_121,grabs tray
+P03_23_124,closes the oven
+P03_23_14,puts baking tray
+P03_23_16,grabs foil
+P03_23_18,opens salmon
+P03_23_19,picks up foil
+P03_23_20,places foil
+P03_23_24,gets scissors
+P03_23_25,cuts foil
+P03_23_26,cuts foil in half
+P03_23_27,puts scissors in drawer
+P03_23_29,picks up salmon
+P03_23_3,pours soap
+P03_23_30,puts salmon on foil
+P03_23_33,puts packaging on side
+P03_23_37,grabs oil
+P03_23_41,puts oil on side
+P03_23_42,grabs pepper
+P03_23_43,opens pepper
+P03_23_44,grinds pepper
+P03_23_46,closes pepper
+P03_23_47,puts pepper on side
+P03_23_48,grabs herbs
+P03_23_49,pours herbs
+P03_23_51,closes herbs
+P03_23_52,puts herbs on side
+P03_23_54,grabs garlic paste
+P03_23_56,presses garlic paste
+P03_23_58,opens garlic paste
+P03_23_59,squeezes garlic paste
+P03_23_61,scoops garlic paste
+P03_23_62,closes garlic paste
+P03_23_64,puts garlic paste
+P03_23_66,spreads garlic
+P03_23_69,grabs tabasco
+P03_23_70,opens tabasco
+P03_23_71,pours tabasco
+P03_23_72,closes tabasco
+P03_23_73,puts tabasco on the side
+P03_23_77,sprinkles salt
+P03_23_8,grabs salmon
+P03_23_82,wraps foil
+P03_23_83,puts foil on tray
+P03_23_84,folds foil
+P03_23_88,puts foil
+P03_23_90,picks up kettle
+P03_23_91,fills kettle
+P03_23_94,turns kettle on
+P03_23_95,grabs saucepan
+P03_23_96,puts saucepan
+P03_23_99,grabs potatoes
+P03_24_0,turns down hob
+P03_24_1,turns on extractor fan
+P03_24_10,places saucepan
+P03_24_101,puts lid on saucepan
+P03_24_102,moves tap
+P03_24_103,drains water
+P03_24_104,pours vegetables on plate
+P03_24_106,grabs spoon
+P03_24_107,spoons vegetables
+P03_24_110,spoons potatoes
+P03_24_111,puts saucepan on side
+P03_24_112,turns off oven
+P03_24_114,turns off extractor fan
+P03_24_116,grabs oven mitts
+P03_24_119,puts tray on side
+P03_24_120,puts down oven mitts
+P03_24_121,opens foil
+P03_24_124,puts on oven mitt
+P03_24_125,spoons salmon
+P03_24_127,grabs plate
+P03_24_128,puts salmon on plate
+P03_24_13,grabs scissors
+P03_24_131,puts foil in bin
+P03_24_132,puts oven mitts on oven
+P03_24_134,grabs cutlery
+P03_24_15,opens carrot bag
+P03_24_16,pours carrots
+P03_24_17,opens sweet corn
+P03_24_18,pours sweet corn
+P03_24_19,grabs carrot bag
+P03_24_2,opens freezer
+P03_24_22,puts carrots
+P03_24_23,puts sweet corn
+P03_24_25,closes freezer
+P03_24_26,grabs lid
+P03_24_28,shakes pan
+P03_24_29,transfers water
+P03_24_30,puts pan on hob
+P03_24_32,grabs knife
+P03_24_34,cuts potatoes
+P03_24_37,puts saucepan on hob
+P03_24_4,grabs sweet corn
+P03_24_40,turns down fan
+P03_24_41,stirs potatoes
+P03_24_43,keeps stirring potatoes
+P03_24_5,grabs carrots
+P03_24_52,grabs spice
+P03_24_6,closes freezer drawer
+P03_24_61,puts pepper
+P03_24_62,spoons spice mix
+P03_24_63,closes spice mix
+P03_24_64,puts spice mix on side
+P03_24_71,grabs plates
+P03_24_73,puts rubbish in bin
+P03_24_75,puts scissors
+P03_24_8,moves lunch box
+P03_24_80,tears off plastic
+P03_24_81,tears off paper
+P03_24_83,shakes potatoes
+P03_24_85,turns on water
+P03_24_87,grabs plastic
+P03_24_88,washes plastic
+P03_24_90,puts plastic on side
+P03_25_0,puts glasses on the side
+P03_25_1,fills glass
+P03_25_13,fills up glass
+P03_25_2,puts glass on side
+P03_25_4,takes squash
+P03_25_6,pours squash
+P03_25_7,closes squash
+P03_25_8,puts squash in fridge
+P03_25_9,takes grapes
+P03_26_0,puts plates on the side
+P03_26_2,puts grapes in fridge
+P04_24_10,picks up peanuts
+P04_24_11,opens packet
+P04_24_13,puts down baking tray
+P04_24_14,picks up baking tray
+P04_24_16,picks up scales
+P04_24_18,puts down scales
+P04_24_19,puts baking tray on scales
+P04_24_20,measures peanuts
+P04_24_22,picks up clip
+P04_24_23,closes packet
+P04_24_25,puts away peanuts
+P04_24_26,puts away scales
+P04_24_27,grinds spices
+P04_24_28,scrapes pestle
+P04_24_29,scrapes spices into pan
+P04_24_30,stirs spice paste
+P04_24_32,reads packet
+P04_24_33,looks for coconut powder
+P04_24_38,tests water
+P04_24_39,fills bowl with water
+P04_24_41,sprinkles coconut powder
+P04_24_42,mixes coconut powder
+P04_24_43,opens coconut powder
+P04_24_46,stirs coconut milk
+P04_24_47,spoons coconut milk to spice paste
+P04_24_48,mixes spice paste
+P04_24_5,picks up slow cooker bowl
+P04_24_50,spoons coconut milk into pan
+P04_24_53,picks up beef
+P04_24_55,cuts beef
+P04_24_58,puts down scissors
+P04_24_6,puts down slow cooker bowl
+P04_24_61,puts peanuts in oven
+P04_24_62,puts timer on
+P04_24_63,stirs beef
+P04_25_0,mixes coconut milk
+P04_25_1,adds water
+P04_25_10,throws away bag
+P04_25_11,picks up peeler
+P04_25_12,peels potatoes
+P04_25_13,peels potato
+P04_25_19,checks peanuts
+P04_25_2,pours water
+P04_25_21,cuts potato
+P04_25_24,stills cutting potato
+P04_25_25,puts potato in pan
+P04_25_26,stirs pan
+P04_25_3,pours coconut milk powder
+P04_25_5,puts water
+P04_25_8,picks up potatoes
+P04_25_9,turns on light
+P04_26_0,picks up chillies
+P04_26_1,slices chillies
+P04_26_2,removes pith
+P04_27_0,removes pith from chilli
+P04_27_1,slices chilli
+P04_27_10,puts chilli in pan
+P04_27_6,chops end of chilli
+P04_28_1,pours coconut milk into pan
+P04_28_13,looks for spice
+P04_28_14,keeps looking for spice
+P04_28_18,opens tub
+P04_28_19,smells
+P04_28_20,spoons spice
+P04_28_22,picks up tamarind spice
+P04_28_23,looks at label
+P04_28_24,puts back
+P04_28_4,puts onion in pan
+P04_28_6,picks up onion
+P04_28_7,unwraps onion
+P04_28_8,peels onion
+P04_29_0,looks in fridge
+P04_29_11,picks up shreddies
+P04_29_12,picks up tub
+P04_29_14,spoons sugar
+P04_29_16,picks up chopping board
+P04_29_17,puts down chopping board
+P04_29_18,picks up potato
+P04_29_19,puts in pan
+P04_29_2,tastes liquid
+P04_29_22,picks up lid of slow cooker
+P04_29_23,picks up slow cooker pan
+P04_29_24,puts pan in slow cooker
+P04_29_25,moves rice cooker
+P04_29_26,puts rice cooker on floor
+P04_29_27,moves slow cooker
+P04_29_28,plugs slow cooker in
+P04_29_29,turns on socket
+P04_29_3,looks in spice drawer
+P04_29_30,puts lid on slow cooker
+P04_29_31,puts away coconut powder
+P04_29_32,puts beef packet in bin
+P04_29_33,rinses beef packet
+P04_29_34,puts container down
+P04_29_35,puts shrimp paste in cupboard
+P04_29_36,puts fish sauce in cupboard
+P04_29_37,puts lemon grass and galangal in fridge
+P04_29_38,picks up container
+P04_29_4,puts cinnamon in pan
+P04_29_40,picks up rubbish
+P04_29_41,picks up packet
+P04_29_43,puts veggie peelings in new bin
+P04_29_44,puts chopping board down
+P04_29_46,dries knife
+P04_29_47,puts knife away
+P04_29_49,dries pan
+P04_29_53,picks up tuna patties
+P04_29_54,puts tuna patties in pan
+P04_29_55,opens freezer drawer
+P04_29_56,looks for rice
+P04_29_57,picks up rice
+P04_29_58,opens rice
+P04_29_59,puts rice in microwave
+P04_29_6,pours coconut powder into pan
+P04_29_60,turns on microwave
+P04_29_7,looks at recipe
+P04_29_8,spoons fish oil
+P04_30_1,picks up lunch box
+P04_30_10,flips tuna patty
+P04_30_11,picks tuna patty
+P04_30_12,puts in lunch box
+P04_30_15,picks up tamagoyaki
+P04_30_16,puts tamagoyaki in lunch box
+P04_30_18,opens cucumber salad
+P04_30_19,puts cucumber salad in lunch box
+P04_30_2,opens microwave
+P04_30_20,puts away cucumber salad
+P04_30_21,opens carrot
+P04_30_22,puts carrot in lunch box
+P04_30_23,puts away carrot
+P04_30_27,turns off fan
+P04_30_29,puts away containers
+P04_30_31,closes lunch box
+P04_30_33,dries fork
+P04_30_34,puts fork on lunch box
+P04_30_37,pours cereal
+P04_30_38,puts away cereal
+P04_30_4,opens lunch box
+P04_30_41,picks up raisins
+P04_30_42,pours raisins
+P04_30_43,puts away raisins
+P04_30_48,spoons yoghurt
+P04_30_49,puts away yoghurt
+P04_30_6,picks up fork
+P04_30_7,puts rice in lunch box
+P04_30_8,stills putting rice in lunch box
+P04_31_1,puts in cupboard
+P04_31_10,puts away rolling pin
+P04_31_100,picks up kitchen roll
+P04_31_102,puts chilli flakes back in cupboard
+P04_31_103,stares at cupboard
+P04_31_105,puts kitchen roll in bin
+P04_31_106,cleans sink
+P04_31_107,rinses sink sieve
+P04_31_11,puts away spoon
+P04_31_12,dries spoon
+P04_31_13,wipes bowl
+P04_31_14,puts away spatula
+P04_31_15,loads dishwasher
+P04_31_16,puts bowl in dishwasher
+P04_31_17,puts spatula in dishwasher
+P04_31_18,puts chopping board in dishwasher
+P04_31_19,puts cutlery in dishwasher
+P04_31_20,puts wok in dishwasher
+P04_31_21,puts tupperware in dishwasher
+P04_31_23,empties tupperware into bin
+P04_31_24,puts baking tray in dishwasher
+P04_31_25,puts baking tray in cupboard
+P04_31_26,throws away paper
+P04_31_27,washes pestle and mortar
+P04_31_28,stills washing pestle and mortar
+P04_31_32,puts in dishwasher
+P04_31_33,puts away spice
+P04_31_34,checks slow cooker
+P04_31_35,stirs slow cooker
+P04_31_37,tastes food
+P04_31_38,drains sink
+P04_31_4,empties dishwasher
+P04_31_43,picks up coconut powder
+P04_31_44,pours coconut powder in slow cooker
+P04_31_48,tips water into slow cooker
+P04_31_5,puts away pan
+P04_31_51,pours coconut powder
+P04_31_53,pours liquid into glass
+P04_31_54,pours water into slow cooker
+P04_31_57,puts lid back on slow cooker
+P04_31_59,picks up rice cooker
+P04_31_6,puts away tray
+P04_31_60,puts rice cooker down
+P04_31_61,plugs in rice cooker
+P04_31_62,turns on switch
+P04_31_63,pulls out rice cooker bowl
+P04_31_64,picks up bag of rice
+P04_31_65,measures rice
+P04_31_66,puts away rice
+P04_31_67,washes rice
+P04_31_68,stills washing rice
+P04_31_7,puts away cutlery
+P04_31_70,measures water into rice cooker
+P04_31_71,dries outside of rice cooker bowl
+P04_31_73,picks up rice paddle
+P04_31_74,scrapes rice into water
+P04_31_75,puts lid on rice cooker
+P04_31_77,takes out broccoli
+P04_31_80,puts broccoli down
+P04_31_81,fills pan with water
+P04_31_83,gets knife
+P04_31_84,chops broccoli
+P04_31_85,puts broccoli in pan
+P04_31_86,puts broccoli sort in bin
+P04_31_89,picks up chilli flakes
+P04_31_9,puts away measuring jug
+P04_31_90,pours chilli flakes in slow cooker
+P04_31_92,tastes curry
+P04_31_93,puts salt in curry
+P04_31_95,fixes pepper container
+P04_32_1,mixes broccoli
+P04_32_2,checks rice
+P04_32_4,picks a plate
+P04_32_6,spoons rice onto plate
+P04_33_0,puts rice back
+P04_33_10,opens slow cooker
+P04_33_11,serves curry
+P04_33_14,puts broccoli on plate
+P04_33_16,drains broccoli
+P04_33_20,puts fork on plate
+P04_33_21,turns off light
+P04_33_5,spoons rice into tupperware
+P04_33_6,turns off rice cooker
+P04_33_7,plugs in kettle
+P04_33_9,puts tupperware into freezer
+P01_14_59,puts down down slice

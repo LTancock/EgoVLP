@@ -1,0 +1,952 @@
+narration_id,narration
+P01_11_0,take plate
+P01_11_1,put down plate
+P01_11_10,take paper
+P01_11_100,wash cloth
+P01_11_101,take cloth
+P01_11_102,squeeze cloth
+P01_11_103,wipe counter
+P01_11_104,wipe sink
+P01_11_105,continue wiping sink
+P01_11_107,take onion
+P01_11_108,turn on tap
+P01_11_109,wash sink
+P01_11_11,open bin
+P01_11_110,turn off tap
+P01_11_112,wipe cooker
+P01_11_113,put down cloth
+P01_11_115,throw onion in
+P01_11_116,close bin
+P01_11_118,dry hands
+P01_11_119,hand cloth
+P01_11_12,throw paper into bin
+P01_11_120,take hand
+P01_11_121,throw can into bin
+P01_11_122,take bin
+P01_11_123,put bin onto other bin
+P01_11_124,take bins
+P01_11_125,put down bins
+P01_11_127,close bag
+P01_11_128,tie bag
+P01_11_132,remove bag of the bin
+P01_11_133,take bin out
+P01_11_135,put bag into bin
+P01_11_136,take garbage bag
+P01_11_137,open bag
+P01_11_14,take tray
+P01_11_140,take lid
+P01_11_141,close container
+P01_11_142,take container and plate
+P01_11_143,open fridge
+P01_11_144,move things in the fridge
+P01_11_145,put container into fridge
+P01_11_146,put plate into fridge
+P01_11_147,close fridge
+P01_11_15,take spatula
+P01_11_16,put down tray
+P01_11_17,take trays
+P01_11_18,put down trays
+P01_11_19,put down spatula and pizza cutter
+P01_11_2,take pizza
+P01_11_23,take tablecloth
+P01_11_24,fold tablecloth
+P01_11_25,put tablecloth into cupboard
+P01_11_26,take container
+P01_11_27,open container
+P01_11_28,take pizza slice
+P01_11_29,put pizza slice into container
+P01_11_3,put pizza onto plate
+P01_11_31,take knife
+P01_11_32,put down knife
+P01_11_33,cut pizza
+P01_11_37,put down lid
+P01_11_40,wash hand
+P01_11_42,take sponge
+P01_11_43,squeeze sponge
+P01_11_44,take washing up liquid
+P01_11_45,put down washing up liquid
+P01_11_46,wash knife
+P01_11_47,take fork
+P01_11_48,wash fork
+P01_11_49,put down fork
+P01_11_5,put pizza slice onto plate
+P01_11_50,take pizza cutter
+P01_11_52,rinse pizza cutter
+P01_11_53,wash pizza cutter
+P01_11_54,put down pizza cutter
+P01_11_56,wash plate
+P01_11_59,wash spatula
+P01_11_60,put down spatula
+P01_11_62,wash tray
+P01_11_67,put down sponge
+P01_11_68,take glass
+P01_11_69,wash glass
+P01_11_71,rinse glass
+P01_11_72,put glass into rack
+P01_11_74,rinse spatula
+P01_11_75,put spatula into rack.
+P01_11_77,rinse knife.
+P01_11_78,wash knife.
+P01_11_81,put knife into rack.
+P01_11_82,take fork.
+P01_11_83,wash fork.
+P01_11_84,rinse fork.
+P01_11_85,take pizza cutter.
+P01_11_86,rinse pizza cutter.
+P01_11_87,put pizza cutter into rack.
+P01_11_88,take tray.
+P01_11_89,rinse tray.
+P01_11_9,fold paper
+P01_11_90,put tray into rack.
+P01_11_93,put tray into rack
+P01_11_95,rinse plate
+P01_11_98,put plate into track
+P01_11_99,wash sponge
+P01_12_0,take cutlery
+P01_12_1,open drawer
+P01_12_10,close drawer
+P01_12_11,take cutting board
+P01_12_12,open cupboard
+P01_12_13,put cutting board into cupboard
+P01_12_15,put trays into cupboard
+P01_12_16,take pan
+P01_12_17,put pan into cupboard
+P01_12_18,take bowls
+P01_12_20,put bowls into cupboard
+P01_12_22,take out
+P01_12_23,close cupboard
+P01_12_25,pull down cup
+P01_12_26,take plates
+P01_12_28,put plates into cupboard
+P01_12_29,take measuring cups and glass
+P01_12_31,put cup into cupboard
+P01_12_32,put measuring cup into cupboard
+P01_12_34,take rolling bin
+P01_12_37,put rolling pin into drawer
+P01_12_4,put down spoon
+P01_12_40,unfold tablecloth
+P01_12_41,pull down tablecloth
+P01_12_42,put cup onto tablecloth
+P01_12_43,take spoon
+P01_12_46,take soy milk
+P01_12_49,put down container
+P01_12_50,shake soy milk
+P01_12_51,open milk
+P01_12_52,pour milk
+P01_12_53,close milk
+P01_12_54,put down soya milk
+P01_12_56,take cereals
+P01_12_57,put down cereals
+P01_12_58,open cereal box
+P01_12_59,unfold cereal bag
+P01_12_60,pour cereals
+P01_12_7,put down tong
+P01_13_0,take cereal bag
+P01_13_1,fold cereal bag
+P01_13_10,hang table cloth
+P01_13_12,pour washing op liquid
+P01_13_15,wash cup and spoon
+P01_13_16,rinse spoon
+P01_13_18,rinse cup
+P01_13_2,put cereal bag into cereal box
+P01_13_20,put down cup
+P01_13_25,put down glass
+P01_13_26,take bottle
+P01_13_27,pour water into glass
+P01_13_28,drink water
+P01_13_3,close cereal box
+P01_13_5,put cereal box into cupboard
+P01_13_7,take cup and spoon
+P01_13_8,put down cup and spoon
+P01_13_9,take table cloth
+P01_14_1,put down bin
+P01_14_100,take kettle
+P01_14_101,open kettle
+P01_14_103,pour water into kettle
+P01_14_105,close kettle
+P01_14_106,put down kettle
+P01_14_107,turn on kettle
+P01_14_109,take colander
+P01_14_11,move bin
+P01_14_110,put down colander
+P01_14_111,put lid into cupboard
+P01_14_113,put down pan
+P01_14_114,pour aubergine into pan
+P01_14_115,put down cutting board
+P01_14_12,lift bin
+P01_14_120,stir aubergine
+P01_14_121,put down aubergine
+P01_14_122,take salt
+P01_14_123,pour salt
+P01_14_124,open salt
+P01_14_125,close salt
+P01_14_126,put down salt
+P01_14_132,put down onion
+P01_14_133,cut onion
+P01_14_135,put onion into container
+P01_14_14,move bins
+P01_14_141,slice onion
+P01_14_142,continue slicing onion
+P01_14_143,chop onion
+P01_14_144,continue chopping onion
+P01_14_146,take onion bits
+P01_14_148,stir
+P01_14_155,open bottle
+P01_14_157,take corkscrew
+P01_14_159,take cork
+P01_14_161,put down bottle opener
+P01_14_164,put down bottle
+P01_14_169,adjust hob
+P01_14_17,crush soy milk
+P01_14_173,pour water into saucepan
+P01_14_178,pour onion into pan
+P01_14_18,put soy milk into bin
+P01_14_181,stir food
+P01_14_182,continue stirring food
+P01_14_19,take can and paper
+P01_14_190,stir salt
+P01_14_198,move bottle
+P01_14_199,move glass
+P01_14_2,take bag
+P01_14_20,crush can
+P01_14_200,put down table cloth
+P01_14_201,move plates
+P01_14_202,move container
+P01_14_208,put down plates
+P01_14_21,put can into bin
+P01_14_213,put down cutlery
+P01_14_214,move chair
+P01_14_22,tear paper
+P01_14_221,take tomato sauce
+P01_14_222,open sauce
+P01_14_223,pour sauce
+P01_14_224,continue pouring sauce
+P01_14_225,put down sauce
+P01_14_229,take pasta
+P01_14_23,put paper into bin
+P01_14_231,take scissor
+P01_14_232,cut pasta bag
+P01_14_233,put scissor into drawer
+P01_14_235,take pasta out of the bag
+P01_14_236,pour pasta
+P01_14_238,throw plastic bag into bin
+P01_14_241,stir pasta
+P01_14_249,move things
+P01_14_253,rinse bottle
+P01_14_254,rinse sauce
+P01_14_257,put lid and bottle into bins
+P01_14_259,take containers
+P01_14_270,take glasses
+P01_14_271,put down glasses
+P01_14_272,take wine bottle
+P01_14_273,pour wine into glass
+P01_14_276,move glasses
+P01_14_283,taste pasta
+P01_14_287,check time
+P01_14_29,put spoon into drawer
+P01_14_290,turn off hob
+P01_14_291,lift saucepan
+P01_14_292,put down saucepan
+P01_14_293,put colander into sink
+P01_14_295,take saucepan
+P01_14_296,drain pasta
+P01_14_297,continue draining pasta
+P01_14_299,pour pasta into pan
+P01_14_3,unroll bag
+P01_14_301,take mozzarella
+P01_14_302,open mozzarella bag
+P01_14_303,sprinkle mozzarella
+P01_14_307,continue stirring pasta
+P01_14_321,pour pasta onto plate
+P01_14_324,move plate
+P01_14_327,pour pasta onto place
+P01_14_329,put down spatulas
+P01_14_330,take pan and spatulas
+P01_14_331,put down pan and spatulas
+P01_14_334,throw pasta into bin
+P01_14_337,wash hands
+P01_14_339,close tap
+P01_14_34,take mushrooms
+P01_14_341,hang cloth
+P01_14_342,close mozzarella bag
+P01_14_343,fold mozzarella bag
+P01_14_345,take clip
+P01_14_346,put clip on bag
+P01_14_349,put mozzarella into fridge
+P01_14_35,put down mushrooms
+P01_14_37,looking for something
+P01_14_41,put down mushrooms and container
+P01_14_42,take bowl
+P01_14_43,put down bowl
+P01_14_47,put down pasta
+P01_14_48,pull down container
+P01_14_49,take mushroom
+P01_14_5,continue opening bag
+P01_14_50,put down mushroom
+P01_14_53,take aubergine and celery
+P01_14_54,put down celery
+P01_14_56,move mushrooms
+P01_14_61,put down mozzarella
+P01_14_68,put down tomato sauce mozzarella and container
+P01_14_7,take banana skin
+P01_14_77,take aubergine
+P01_14_8,put banana skin into bag
+P01_14_80,move cutting board
+P01_14_81,take olive oil
+P01_14_82,open oil
+P01_14_83,pour oil into pan
+P01_14_84,close oil
+P01_14_85,put down oil
+P01_14_86,turn on hob
+P01_14_9,put bag in to bin
+P01_14_90,cut aubergine
+P01_14_91,continue cutting aubergine
+P01_14_92,dicing aubergine
+P01_14_93,continue dicing aubergine
+P01_14_95,still dicing aubergine
+P01_14_98,throw aubergine end into bin
+P01_14_99,check oil
+P01_15_10,put plate onto plates
+P01_15_100,put plate down
+P01_15_108,move pan
+P01_15_109,remove pasta
+P01_15_114,adjust tap
+P01_15_118,rinse knife
+P01_15_127,rinse fork
+P01_15_152,take spatula.
+P01_15_153,rinse spatula.
+P01_15_154,put down spatula.
+P01_15_155,close tap.
+P01_15_156,wash cutting board.
+P01_15_157,take washing up liquid.
+P01_15_158,pour washing up liquid.
+P01_15_159,put down washing up liquid.
+P01_15_160,wash pan.
+P01_15_161,empty pan.
+P01_15_162,continue washing pan.
+P01_15_163,put down pan.
+P01_15_164,take colander.
+P01_15_165,remove pasta.
+P01_15_167,wash colander
+P01_15_172,empty pan
+P01_15_174,wash pan
+P01_15_175,continue washing pan
+P01_15_179,wash container
+P01_15_18,fold table cloth
+P01_15_182,wash lid
+P01_15_186,put down container and sponge
+P01_15_187,rinse hands
+P01_15_188,rinse container
+P01_15_194,rinse lid
+P01_15_20,put table cloth into drawer
+P01_15_200,rinse colander
+P01_15_201,still rinsing colander
+P01_15_210,rinse pan
+P01_15_214,rinse sponge
+P01_15_216,empty saucepan
+P01_15_220,rinse cutting board
+P01_15_221,continue rinsing cutting board
+P01_15_223,drain cutting board
+P01_15_228,squeeze pasta
+P01_15_235,take cleansing
+P01_15_245,throw something into bin
+P01_15_251,continue wiping cooker
+P01_15_266,continue wiping counter
+P01_15_269,put down sponges
+P01_15_270,squeeze clothe
+P01_15_277,put down soap
+P01_15_278,move washing up liquid
+P01_15_289,pour wine
+P01_15_30,pour washing up liquid
+P01_15_34,continue washing spatula
+P01_15_46,wash spoon
+P01_15_5,throw leftovers into bin
+P01_15_7,put plate onto plate
+P01_15_72,continue washing plate
+P01_15_79,continue washing pate
+P01_15_87,put on sponge
+P01_15_99,drain plate
+P02_12_0,hold pan
+P02_12_10,get spoon
+P02_12_100,remove towels
+P02_12_103,put towels
+P02_12_105,knead dough
+P02_12_106,knead dough in bowl
+P02_12_107,hold bowl
+P02_12_111,move bowl
+P02_12_112,pick up tray
+P02_12_113,put tray
+P02_12_114,move paper towel
+P02_12_116,move tray
+P02_12_117,pick up olive oil
+P02_12_118,open olive oil bottle
+P02_12_12,pick up yoghurt
+P02_12_120,pour oil onto tray
+P02_12_121,put olive oil bottle
+P02_12_122,spread olive in tray
+P02_12_124,pick up dough
+P02_12_125,get a bowl of dough
+P02_12_127,pour olive oil in plate
+P02_12_128,put olive oil
+P02_12_129,pick up some oil
+P02_12_13,put yoghurt
+P02_12_130,knead dough in hand
+P02_12_131,roll dough
+P02_12_132,put bowl of dough
+P02_12_133,get bowl of dough
+P02_12_134,pick up oil
+P02_12_139,spread oil on hand
+P02_12_14,put spoon
+P02_12_141,knead bowl of dough
+P02_12_142,roll bowl of dough
+P02_12_144,get some oil
+P02_12_146,get ball of dough
+P02_12_147,knead ball of dough
+P02_12_148,roll ball of dough
+P02_12_149,put ball of dough
+P02_12_15,pick up tahini
+P02_12_16,open tahini
+P02_12_17,pick up spoon
+P02_12_172,roll
+P02_12_173,pick up oil bottle
+P02_12_174,pour oil bottle into plate
+P02_12_175,put bottle of oil
+P02_12_18,mix tahini
+P02_12_187,get some meat from pan
+P02_12_188,put meat on ball of dough
+P02_12_189,get some meat
+P02_12_19,stirring tahini
+P02_12_193,squeeze
+P02_12_196,get meat
+P02_12_198,get meat mix
+P02_12_20,scoop tahini
+P02_12_203,put mix on ball of dough
+P02_12_208,get meat mix from pan
+P02_12_212,put meat mix on ball of dough
+P02_12_213,put mix meat on ball of dough
+P02_12_219,put tray on stove
+P02_12_22,pour tahini on meat
+P02_12_222,pick up plate
+P02_12_223,pour oil from plate to tray
+P02_12_224,spread oil in tray
+P02_12_226,pour oil in tray
+P02_12_228,get bowl of dough from bowl
+P02_12_23,put tahini on meat
+P02_12_232,turn oven on
+P02_12_24,close tahini
+P02_12_25,put tahini away
+P02_12_253,roll all ball of dough
+P02_12_26,open yoghurt
+P02_12_264,put meat mix on dough
+P02_12_267,get mix meat from pan
+P02_12_268,put mix meat on dough
+P02_12_273,get meat mix from pan from spoon
+P02_12_278,get tray
+P02_12_279,remove bags
+P02_12_28,scoop yoghurt
+P02_12_284,pour oil
+P02_12_285,pick up olive oil bottle
+P02_12_286,pour oil on tray
+P02_12_288,pick up dough half dough
+P02_12_292,pick up ball of dough
+P02_12_296,put ball of dough on tray
+P02_12_3,pick up herb
+P02_12_302,open jar
+P02_12_303,scoop thyme
+P02_12_304,put thyme in tray
+P02_12_306,mix thyme and olive oil in plate
+P02_12_307,scoop thyme and olive oil using hand
+P02_12_308,put thyme and olive oil on dough
+P02_12_31,close yoghurt
+P02_12_312,put plate
+P02_12_314,pour olive oil into plate
+P02_12_315,return bottle
+P02_12_316,hold plate
+P02_12_317,get thyme
+P02_12_318,mix thyme in plate
+P02_12_320,add olive
+P02_12_321,mix olive oil and thyme
+P02_12_324,scoop olive oil and thyme
+P02_12_325,put olive oil and thyme into dough
+P02_12_326,put mixture of olive oil and thyme onto dough
+P02_12_327,scoop olive oil and dough from plate
+P02_12_328,add olive oil and thyme to dough
+P02_12_329,pour olive oil and thyme from plate to dough
+P02_12_33,mix meat
+P02_12_331,scoop thyme using spoon
+P02_12_332,add thyme to dough
+P02_12_333,pour thyme from plate to dough
+P02_12_334,put plate in sink
+P02_12_335,open tap
+P02_12_337,pick up towel
+P02_12_34,stir meat with yoghurt and tahini
+P02_12_340,pick up pine nuts
+P02_12_341,pour pine nuts into hand
+P02_12_342,place pine nuts
+P02_12_343,add pine nuts to pie
+P02_12_344,pick up pine nuts from hand
+P02_12_345,put pine nuts on pie
+P02_12_347,pick up pine nuts bag
+P02_12_348,pour pine nuts bag into hand
+P02_12_349,put pine nuts bag
+P02_12_357,return pine nuts bag
+P02_12_358,add pine nuts on pie
+P02_12_36,get tupperware
+P02_12_363,return bag
+P02_12_366,pick up oven gloves
+P02_12_367,open oven
+P02_12_368,remove oven tray
+P02_12_369,push oven tray
+P02_12_370,close oven
+P02_12_371,remove oven glove
+P02_12_4,open herb
+P02_12_40,open tupperware
+P02_12_41,pick up meat
+P02_12_42,put meat in tupperware
+P02_12_46,put in tupperware
+P02_12_5,sprinkle herb on meat
+P02_12_50,close tupperware
+P02_12_51,put tupperware away
+P02_12_53,stir meat with tahini and yoghurt
+P02_12_54,mixing meat
+P02_12_58,pour yoghurt
+P02_12_62,stir meat with yoghurt
+P02_12_63,still stirring meat
+P02_12_64,taste meat mix
+P02_12_65,stir meat
+P02_12_66,pick up pan
+P02_12_67,put pan
+P02_12_7,close herb
+P02_12_72,move bags
+P02_12_77,pick up open cupboard
+P02_12_78,return tray
+P02_12_79,pick another tray
+P02_12_8,put herb
+P02_12_80,remove lid
+P02_12_81,put lid
+P02_12_83,shake tray
+P02_12_87,move can
+P02_12_90,put thyme
+P02_12_91,set off timer
+P02_12_93,pull drawer
+P02_12_94,pick up bowl
+P02_12_95,push drawer
+P02_12_99,put bowl
+P02_13_0,pick up oven glove
+P02_13_1,wear oven glove
+P02_13_10,put tray in oven
+P02_13_12,set timer
+P02_14_4,pull drawer of oven
+P02_14_5,place tray on stove
+P02_15_0,pick up tupperware
+P02_15_1,pick up pie
+P02_15_10,put pie
+P02_15_15,move pie
+P02_15_16,pick up lid
+P02_15_18,pick up paper towel
+P02_15_19,get paper towel
+P02_15_2,place pie in tupperware
+P02_15_21,dry tupperware
+P02_15_23,hold tupperware
+P02_15_30,put down pie
+P02_15_34,place tupperware
+P02_15_36,dry lid
+P02_15_37,hold and dry lid
+P02_15_39,pick up two tupperware
+P02_15_4,place in tupperware
+P02_15_42,remove salad from fridge
+P02_15_43,put salad plate
+P02_15_44,move stuff in fridge
+P02_15_45,move eggs in fridge
+P02_15_46,put tupperware in fridge
+P02_15_48,move tupperware
+P02_15_6,place pie
+P03_21_1,grab glass
+P03_21_10,put juice
+P03_21_12,pick up glass
+P03_21_4,grab juice
+P03_21_6,open juice
+P03_21_7,pour juice
+P03_21_8,close juice
+P03_22_0,put bag
+P03_22_1,put glass
+P03_22_10,grab drink
+P03_22_12,put drink in bag
+P03_22_14,pick up bag
+P03_22_16,grab pancakes
+P03_22_21,put pancakes on plate
+P03_22_23,put in bin
+P03_22_3,grab lunch box
+P03_22_5,grab fork
+P03_22_7,put lunch box in bag
+P03_22_8,put fork in bag
+P03_23_1,turn on oven
+P03_23_10,put salmon
+P03_23_102,pour potatoes
+P03_23_106,put potatoes
+P03_23_109,grab salt
+P03_23_112,put salt
+P03_23_114,shake saucepan
+P03_23_115,check temperature
+P03_23_117,move saucepan
+P03_23_118,grab kettle
+P03_23_119,pour kettle
+P03_23_12,grab baking tray
+P03_23_120,put kettle
+P03_23_121,grab tray
+P03_23_124,close the oven
+P03_23_14,put baking tray
+P03_23_16,grab foil
+P03_23_18,open salmon
+P03_23_19,pick up foil
+P03_23_20,place foil
+P03_23_24,get scissors
+P03_23_25,cut foil
+P03_23_26,cut foil in half
+P03_23_27,put scissors in drawer
+P03_23_29,pick up salmon
+P03_23_3,pour soap
+P03_23_30,put salmon on foil
+P03_23_33,put packaging on side
+P03_23_37,grab oil
+P03_23_41,put oil on side
+P03_23_42,grab pepper
+P03_23_43,open pepper
+P03_23_44,grind pepper
+P03_23_46,close pepper
+P03_23_47,put pepper on side
+P03_23_48,grab herbs
+P03_23_49,pour herbs
+P03_23_51,close herbs
+P03_23_52,put herbs on side
+P03_23_54,grab garlic paste
+P03_23_56,press garlic paste
+P03_23_58,open garlic paste
+P03_23_59,squeeze garlic paste
+P03_23_61,scoop garlic paste
+P03_23_62,close garlic paste
+P03_23_64,put garlic paste
+P03_23_66,spread garlic
+P03_23_69,grab tabasco
+P03_23_70,open tabasco
+P03_23_71,pour tabasco
+P03_23_72,close tabasco
+P03_23_73,put tabasco on the side
+P03_23_77,sprinkle salt
+P03_23_8,grab salmon
+P03_23_82,wrap foil
+P03_23_83,put foil on tray
+P03_23_84,fold foil
+P03_23_88,put foil
+P03_23_90,pick up kettle
+P03_23_91,fill kettle
+P03_23_94,turn kettle on
+P03_23_95,grab saucepan
+P03_23_96,put saucepan
+P03_23_99,grab potatoes
+P03_24_0,turn down hob
+P03_24_1,turn on extractor fan
+P03_24_10,place saucepan
+P03_24_101,put lid on saucepan
+P03_24_102,move tap
+P03_24_103,drain water
+P03_24_104,pour vegetables on plate
+P03_24_106,grab spoon
+P03_24_107,spoon vegetables
+P03_24_110,spoon potatoes
+P03_24_111,put saucepan on side
+P03_24_112,turn off oven
+P03_24_114,turn off extractor fan
+P03_24_116,grab oven mitts
+P03_24_119,put tray on side
+P03_24_120,put down oven mitts
+P03_24_121,open foil
+P03_24_124,put on oven mitt
+P03_24_125,spoon salmon
+P03_24_127,grab plate
+P03_24_128,put salmon on plate
+P03_24_13,grab scissors
+P03_24_131,put foil in bin
+P03_24_132,put oven mitts on oven
+P03_24_134,grab cutlery
+P03_24_15,open carrot bag
+P03_24_16,pour carrots
+P03_24_17,open sweet corn
+P03_24_18,pour sweet corn
+P03_24_19,grab carrot bag
+P03_24_2,open freezer
+P03_24_22,put carrots
+P03_24_23,put sweet corn
+P03_24_25,close freezer
+P03_24_26,grab lid
+P03_24_28,shake pan
+P03_24_29,transfer water
+P03_24_30,put pan on hob
+P03_24_32,grab knife
+P03_24_34,cut potatoes
+P03_24_37,put saucepan on hob
+P03_24_4,grab sweet corn
+P03_24_40,turn down fan
+P03_24_41,stir potatoes
+P03_24_43,keep stirring potatoes
+P03_24_5,grab carrots
+P03_24_52,grab spice
+P03_24_6,close freezer drawer
+P03_24_61,put pepper
+P03_24_62,spoon spice mix
+P03_24_63,close spice mix
+P03_24_64,put spice mix on side
+P03_24_71,grab plates
+P03_24_73,put rubbish in bin
+P03_24_75,put scissors
+P03_24_8,move lunch box
+P03_24_80,tear off plastic
+P03_24_81,tear off paper
+P03_24_83,shake potatoes
+P03_24_85,turn on water
+P03_24_87,grab plastic
+P03_24_88,wash plastic
+P03_24_90,put plastic on side
+P03_25_0,put glasses on the side
+P03_25_1,fill glass
+P03_25_13,fill up glass
+P03_25_2,put glass on side
+P03_25_4,take squash
+P03_25_6,pour squash
+P03_25_7,close squash
+P03_25_8,put squash in fridge
+P03_25_9,take grapes
+P03_26_0,put plates on the side
+P03_26_2,put grapes in fridge
+P04_24_10,pick up peanuts
+P04_24_11,open packet
+P04_24_13,put down baking tray
+P04_24_14,pick up baking tray
+P04_24_16,pick up scales
+P04_24_18,put down scales
+P04_24_19,put baking tray on scales
+P04_24_20,measure peanuts
+P04_24_22,pick up clip
+P04_24_23,close packet
+P04_24_25,put away peanuts
+P04_24_26,put away scales
+P04_24_27,grind spices
+P04_24_28,scrape pestle
+P04_24_29,scrape spices into pan
+P04_24_30,stir spice paste
+P04_24_32,read packet
+P04_24_33,look for coconut powder
+P04_24_38,test water
+P04_24_39,fill bowl with water
+P04_24_41,sprinkle coconut powder
+P04_24_42,mix coconut powder
+P04_24_43,open coconut powder
+P04_24_46,stir coconut milk
+P04_24_47,spoon coconut milk to spice paste
+P04_24_48,mix spice paste
+P04_24_5,pick up slow cooker bowl
+P04_24_50,spoon coconut milk into pan
+P04_24_53,pick up beef
+P04_24_55,cut beef
+P04_24_58,put down scissors
+P04_24_6,put down slow cooker bowl
+P04_24_61,put peanuts in oven
+P04_24_62,put timer on
+P04_24_63,stir beef
+P04_25_0,mix coconut milk
+P04_25_1,add water
+P04_25_10,throw away bag
+P04_25_11,pick up peeler
+P04_25_12,peel potatoes
+P04_25_13,peel potato
+P04_25_19,check peanuts
+P04_25_2,pour water
+P04_25_21,cut potato
+P04_25_24,still cutting potato
+P04_25_25,put potato in pan
+P04_25_26,stir pan
+P04_25_3,pour coconut milk powder
+P04_25_5,put water
+P04_25_8,pick up potatoes
+P04_25_9,turn on light
+P04_26_0,pick up chillies
+P04_26_1,slice chillies
+P04_26_2,remove pith
+P04_27_0,remove pith from chilli
+P04_27_1,slice chilli
+P04_27_10,put chilli in pan
+P04_27_6,chop end of chilli
+P04_28_1,pour coconut milk into pan
+P04_28_13,look for spice
+P04_28_14,keep looking for spice
+P04_28_18,open tub
+P04_28_19,smell
+P04_28_20,spoon spice
+P04_28_22,pick up tamarind spice
+P04_28_23,look at label
+P04_28_24,put back
+P04_28_4,put onion in pan
+P04_28_6,pick up onion
+P04_28_7,unwrap onion
+P04_28_8,peel onion
+P04_29_0,look in fridge
+P04_29_11,pick up shreddies
+P04_29_12,pick up tub
+P04_29_14,spoon sugar
+P04_29_16,pick up chopping board
+P04_29_17,put down chopping board
+P04_29_18,pick up potato
+P04_29_19,put in pan
+P04_29_2,taste liquid
+P04_29_22,pick up lid of slow cooker
+P04_29_23,pick up slow cooker pan
+P04_29_24,put pan in slow cooker
+P04_29_25,move rice cooker
+P04_29_26,put rice cooker on floor
+P04_29_27,move slow cooker
+P04_29_28,plug slow cooker in
+P04_29_29,turn on socket
+P04_29_3,look in spice drawer
+P04_29_30,put lid on slow cooker
+P04_29_31,put away coconut powder
+P04_29_32,put beef packet in bin
+P04_29_33,rinse beef packet
+P04_29_34,put container down
+P04_29_35,put shrimp paste in cupboard
+P04_29_36,put fish sauce in cupboard
+P04_29_37,put lemon grass and galangal in fridge
+P04_29_38,pick up container
+P04_29_4,put cinnamon in pan
+P04_29_40,pick up rubbish
+P04_29_41,pick up packet
+P04_29_43,put veggie peelings in new bin
+P04_29_44,put chopping board down
+P04_29_46,dry knife
+P04_29_47,put knife away
+P04_29_49,dry pan
+P04_29_53,pick up tuna patties
+P04_29_54,put tuna patties in pan
+P04_29_55,open freezer drawer
+P04_29_56,look for rice
+P04_29_57,pick up rice
+P04_29_58,open rice
+P04_29_59,put rice in microwave
+P04_29_6,pour coconut powder into pan
+P04_29_60,turn on microwave
+P04_29_7,look at recipe
+P04_29_8,spoon fish oil
+P04_30_1,pick up lunch box
+P04_30_10,flip tuna patty
+P04_30_11,pick tuna patty
+P04_30_12,put in lunch box
+P04_30_15,pick up tamagoyaki
+P04_30_16,put tamagoyaki in lunch box
+P04_30_18,open cucumber salad
+P04_30_19,put cucumber salad in lunch box
+P04_30_2,open microwave
+P04_30_20,put away cucumber salad
+P04_30_21,open carrot
+P04_30_22,put carrot in lunch box
+P04_30_23,put away carrot
+P04_30_27,turn off fan
+P04_30_29,put away containers
+P04_30_31,close lunch box
+P04_30_33,dry fork
+P04_30_34,put fork on lunch box
+P04_30_37,pour cereal
+P04_30_38,put away cereal
+P04_30_4,open lunch box
+P04_30_41,pick up raisins
+P04_30_42,pour raisins
+P04_30_43,put away raisins
+P04_30_48,spoon yoghurt
+P04_30_49,put away yoghurt
+P04_30_6,pick up fork
+P04_30_7,put rice in lunch box
+P04_30_8,still putting rice in lunch box
+P04_31_1,put in cupboard
+P04_31_10,put away rolling pin
+P04_31_100,pick up kitchen roll
+P04_31_102,put chilli flakes back in cupboard
+P04_31_103,stare at cupboard
+P04_31_105,put kitchen roll in bin
+P04_31_106,clean sink
+P04_31_107,rinse sink sieve
+P04_31_11,put away spoon
+P04_31_12,dry spoon
+P04_31_13,wipe bowl
+P04_31_14,put away spatula
+P04_31_15,load dishwasher
+P04_31_16,put bowl in dishwasher
+P04_31_17,put spatula in dishwasher
+P04_31_18,put chopping board in dishwasher
+P04_31_19,put cutlery in dishwasher
+P04_31_20,put wok in dishwasher
+P04_31_21,put tupperware in dishwasher
+P04_31_23,empty tupperware into bin
+P04_31_24,put baking tray in dishwasher
+P04_31_25,put baking tray in cupboard
+P04_31_26,throw away paper
+P04_31_27,wash pestle and mortar
+P04_31_28,still washing pestle and mortar
+P04_31_32,put in dishwasher
+P04_31_33,put away spice
+P04_31_34,check slow cooker
+P04_31_35,stir slow cooker
+P04_31_37,taste food
+P04_31_38,drain sink
+P04_31_4,emptying dishwasher
+P04_31_43,pick up coconut powder
+P04_31_44,pour coconut powder in slow cooker
+P04_31_48,tip water into slow cooker
+P04_31_5,put away pan
+P04_31_51,pour coconut powder
+P04_31_53,pour liquid into glass
+P04_31_54,pour water into slow cooker
+P04_31_57,put lid back on slow cooker
+P04_31_59,pick up rice cooker
+P04_31_6,put away tray
+P04_31_60,put rice cooker down
+P04_31_61,plug in rice cooker
+P04_31_62,turn on switch
+P04_31_63,pull out rice cooker bowl
+P04_31_64,pick up bag of rice
+P04_31_65,measure rice
+P04_31_66,put away rice
+P04_31_67,wash rice
+P04_31_68,still washing rice
+P04_31_7,put away cutlery
+P04_31_70,measure water into rice cooker
+P04_31_71,dry outside of rice cooker bowl
+P04_31_73,pick up rice paddle
+P04_31_74,scrape rice into water
+P04_31_75,put lid on rice cooker
+P04_31_77,take out broccoli
+P04_31_80,put broccoli down
+P04_31_81,fill pan with water
+P04_31_83,get knife
+P04_31_84,chop broccoli
+P04_31_85,put broccoli in pan
+P04_31_86,put broccoli sort in bin
+P04_31_89,pick up chilli flakes
+P04_31_9,put away measuring jug
+P04_31_90,pour chilli flakes in slow cooker
+P04_31_92,taste curry
+P04_31_93,put salt in curry
+P04_31_95,fix pepper container
+P04_32_1,mix broccoli
+P04_32_2,check rice
+P04_32_4,pick a plate
+P04_32_6,spoon rice onto plate
+P04_33_0,put rice back
+P04_33_10,open slow cooker
+P04_33_11,serve curry
+P04_33_14,put broccoli on plate
+P04_33_16,drain broccoli
+P04_33_20,put fork on plate
+P04_33_21,turn off light
+P04_33_5,spoon rice into tupperware
+P04_33_6,turn off rice cooker
+P04_33_7,plug in kettle
+P04_33_9,put tupperware into freezer
+P01_14_59,put down down slice
