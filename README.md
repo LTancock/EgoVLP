@@ -4,7 +4,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/egocentric-video-language-pretraining/moment-queries-on-ego4d)](https://paperswithcode.com/sota/moment-queries-on-ego4d?p=egocentric-video-language-pretraining)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/egocentric-video-language-pretraining/object-state-change-classification-on-ego4d)](https://paperswithcode.com/sota/object-state-change-classification-on-ego4d?p=egocentric-video-language-pretraining)
 
-##This is a fork of https://github.com/showlab/EgoVLP
+This is a fork of https://github.com/showlab/EgoVLP
 
 # EgoVLP: Egocentric Video-Language Pretraining
 
